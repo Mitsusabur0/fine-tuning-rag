@@ -1,0 +1,502 @@
+user_input,expected_output,retrieved_contexts
+¿Cómo le pido a Vivi que me muestre casas o departamentos según mis preferencias?,"Para buscar casas o departamentos con Vivi, solo debes ser específico en tu solicitud. Por ejemplo, puedes decirme:
+
+• ""Casa en Maipú con 2 dormitorios""
+• ""Departamento en Santiago centro con estacionamiento""
+• ""Propiedad en San Miguel cerca del Metro""
+
+Mientras más detalles me proporciones, más precisos serán los resultados que te mostraré. 
+
+¿Tienes alguna preferencia específica de ubicación o tipo de vivienda que te gustaría encontrar?","['# Cómo funciona la inteligencia artificial en CASAVERSO Hemos incorporado inteligencia artificial a través de Vivi, la guIA hipotecaria (¡soy yo!). Estoy preparada para mostrarte casas o departamentos nuevos de acuerdo a tus preferencias. Sólo debes escribir tu búsqueda y elegiré los resultados que puedan gustarte. Mientras más detalles me des, mejor. Por ejemplo, alguien me pidió hace poco: “Busco departamento en San Miguel con 2 dormitorios, estacionamiento y cerca del Metro”. ¡Y encontré varias propiedades! También puedo responder tus dudas sobre créditos hipotecarios, el proceso de compra de una propiedad, subsidios, entre otros temas relacionados. Estoy en etapa de desarrollo, y mi conocimiento crecerá a nuevos ámbitos.', 'Si el proyecto es de mi interés ¿qué pasos debo seguir? Paso 1: Tomar contacto con las inmobiliarias o constructoras que desarrollan el proyecto. Paso 2: Visitar la sala de ventas del proyecto inmobiliario seleccionado y verificar si existen cupos disponibles. Paso 3: Gestionar la reserva de la vivienda elegida con la Inmobiliaria o Constructora que desarrolla el proyecto. NOTAS:Estos 3 Pasos solo son válidos para familias de menores ingresos que están buscando un cupo de vivienda en Proyectos DS 19, que han sido seleccionados en Llamados a Concurso de Proyectos del MINVU y SERVIU, realizados antes del año 2022. Si, por el contrario, las familias de menores ingresos desean incorporarse en un Proyecto DS 19 seleccionado a partir del año']"
+¿Cómo creo una cuenta en CASAVERSO?,"Para crear una cuenta en CASAVERSO, sigue estos pasos:
+
+1. Dirígete al menú lateral y selecciona la opción ""Iniciar sesión"".
+2. En la página de inicio de sesión, presiona el botón ""Registrarse en CASAVERSO"".
+
+Si eres cliente de BancoEstado, tienes un acceso más rápido: puedes ingresar directamente con tu RUT y la clave de tu Banca en Línea.
+
+¿Te gustaría que te explique más detalles sobre el proceso de registro?","['# Cómo puedo crear una cuenta en CASAVERSO Para crear una cuenta, anda al menú lateral y marca la opción Iniciar sesión. En esta página puedes registrarte en la plataforma presionando el botón Registrarse en CASAVERSO. Tip: Si eres cliente BancoEstado, puedes abrir tu cuenta sin necesidad de registro. Simplemente ingresa tu RUT y la clave que usas en tu Banca en Línea para entrar a tu cuenta.', '# Qué es CASAVERSO CASAVERSO es el ecosistema de vivienda y construcción de BancoEstado. Es una plataforma digital donde todos los mundos que hoy están dispersos -asesoría, financiamiento, inmobiliarias, corredores, notarías y trámites- se reúnen en un mismo lugar. CASAVERSO: el universo completo de la vivienda, en un solo lugar.']"
+"Si yo me registro en el nuevo portal CASAVERSO, ¿quién lo creó y qué consideró BancoEstado al desarrollarlo?","BancoEstado creó el portal CASAVERSO considerando las necesidades de los clientes, las condiciones actuales y futuras del mercado inmobiliario, e incorporando las últimas tecnologías emergentes a nivel mundial. 
+
+Un ejemplo de esto es cómo el portal busca facilitar la búsqueda y selección de propiedades para los usuarios.
+
+¿Te gustaría conocer más detalles sobre las funcionalidades de CASAVERSO?","['# El Nuevo Portal CASAVERSO es de BancoEstado Sí, este nuevo portal ha sido desarrollado por BancoEstado considerando las necesidades de los clientes, las condiciones actuales y futuras del mercado inmobiliario y las nuevas tecnologías emergentes a nivel mundial.', '# El Nuevo Portal CASAVERSO es seguro El nuevo portal cumple con todas las condiciones y exigencias que nos rigen como instituciones financieras en materia de seguridad informática y uso de datos personales.']"
+kiero saber si el nuevo portal casaverso es seguro y protege mis datos?,"Sí, Casaverso es completamente seguro. Cumple con todas las exigencias de seguridad informática y protección de datos personales que rigen para las instituciones financieras. 
+
+Nuestro portal está diseñado para resguardar tu información de manera integral y confidencial.
+
+¿Te gustaría que te explique más sobre cómo protegemos tus datos en Casaverso?","['# El Nuevo Portal CASAVERSO es seguro El nuevo portal cumple con todas las condiciones y exigencias que nos rigen como instituciones financieras en materia de seguridad informática y uso de datos personales.', '# Es seguro compartir mi información personal en CASAVERSO Como en todos los portales de BancoEstado, la seguridad es una de nuestras principales preocupaciones. Puedes revisar el enlace Políticas de privacidad en el pie de página para informarte de todo lo relacionado a tratamiento de datos personales y uso de datos de navegación (cookies).']"
+¿Cómo reviso la política de privacidad para saber si es seguro compartir mis datos en CASAVERSO?,"En nuestro sitio web de Casaverso, puedes encontrar las Políticas de Privacidad en el pie de página, que te proporcionarán toda la información detallada sobre el tratamiento de tus datos personales. 
+
+Ejemplo: Busca al final de la página web el enlace ""Políticas de Privacidad"" y revisa los términos de uso y protección de datos.
+
+¿Te gustaría que te explique brevemente qué aspectos suelen cubrir estas políticas de privacidad?","['# Es seguro compartir mi información personal en CASAVERSO Como en todos los portales de BancoEstado, la seguridad es una de nuestras principales preocupaciones. Puedes revisar el enlace Políticas de privacidad en el pie de página para informarte de todo lo relacionado a tratamiento de datos personales y uso de datos de navegación (cookies).', '# El Nuevo Portal CASAVERSO es seguro El nuevo portal cumple con todas las condiciones y exigencias que nos rigen como instituciones financieras en materia de seguridad informática y uso de datos personales.']"
+k hay casas pa arriendo ahora?,"Actualmente no tenemos propiedades disponibles para arriendo en nuestro portal Casaverso. Estamos trabajando para incorporar opciones de arriendo próximamente.
+
+¿Te gustaría ver las propiedades que tenemos disponibles para compra mientras tanto? Puedo ayudarte a filtrar casas según tu presupuesto y ubicación preferida.","['# Hay propiedades para arriendo En este momento sólo hay propiedades que están a la venta, pero en un futuro cercano publicaremos propiedades disponibles para arriendo.', 'Si eres Jubilado o Pensionado, debes presentar la última liquidación de jubilación o pensión. Si eres Rentista, debes presentar contratos de arriendo notariados de las propiedades, con antigüedad mínima de 1 año, certificados de dominio vigente de las propiedades y los comprobantes de transferencia electrónica o cartola de cuenta bancaria, con el monto del arriendo últimos 6 meses. Si eres Socio de Empresa o persona natural con giro comercial, debes presentar de los últimos 2 años: Declaraciones de Impuestos Anual a la Renta Personal.']"
+¿Hay propiedades usadas en Casaverso?,"En este momento, Casaverso solo cuenta con propiedades nuevas (proyectos), pero próximamente se ampliará para incluir propiedades usadas. 
+
+¿Te gustaría conocer los proyectos nuevos disponibles actualmente en nuestra plataforma?","['# Hay propiedades usadas En este momento sólo hay propiedades nuevas (proyectos) en CASAVERSO, pero próximamente nos ampliaremos a la publicación de propiedades usadas.', '# Qué es CASAVERSO CASAVERSO es el ecosistema de vivienda y construcción de BancoEstado. Es una plataforma digital donde todos los mundos que hoy están dispersos -asesoría, financiamiento, inmobiliarias, corredores, notarías y trámites- se reúnen en un mismo lugar. CASAVERSO: el universo completo de la vivienda, en un solo lugar.']"
+"Oye, para la preaprobación tengo que meter mis credenciales del sitio web de BancoEstado, ¿es eso correcto?","Sí, es correcto. Para avanzar en el proceso de preaprobación de tu crédito hipotecario, necesitas iniciar sesión con tus credenciales de BancoEstado en el sitio web.
+
+Este paso nos permite verificar tu identidad y acceder a la información necesaria para evaluar tu solicitud.
+
+¿Te gustaría que te explique los siguientes pasos para completar tu preaprobación?","['# Para avanzar a la preaprobación me solicita registrar las credenciales BancoEstado del sitio web ¿esto es correcto? Si, considerando que esta es una plataforma BancoEstado, para reconocer la identidad del usuario y acceder a servicios BancoEstado, se deben ingresar las credenciales de la web para avanzar en la Preaprobación.', '# Si soy cliente del BancoEstado, ¿puedo ingresar con mis credenciales del banco? Sí, puedes ingresar a tu cuenta en CASAVERSO con tu RUT y clave internet con la que ingresas habitualmente a tu Banca en Línea.']"
+beneficios portal casaverso,"Los beneficios de utilizar el Portal Casaverso son:
+
+1. Preaprobación de crédito hipotecario en línea: Podrás conocer de forma inmediata si eres sujeto de crédito, generando certeza y seguridad en tu proceso de búsqueda de vivienda.
+
+2. Asesoría personalizada: Cuenta con Vivi, una asistente de inteligencia artificial que te acompaña durante todo el proceso, resolviendo dudas y ayudándote a encontrar la vivienda ideal.
+
+3. Búsqueda personalizada: El portal te propone alternativas de viviendas que se ajustan específicamente a tus necesidades y preferencias.
+
+¿Te gustaría que te explique más sobre cómo funciona la preaprobación de crédito en Casaverso?","['# Qué beneficios pueden identificar las personas al utilizar el Portal de CASAVERSO A las personas que navegan les genera: Certeza en el proceso de evaluación, dándoles la seguridad de saber, de forma inmediata, que son sujetos de crédito hipotecario, a través de una preaprobación en línea, Una experiencia y asesoría en el proceso de navegación en la plataforma, al estar acompañado de una GuÍA mediante Vivi, una IA experta que lo acompañará en todo el proceso y lo ayudará a disminuir las dudas en torno al proceso de compra. Personalizar el proceso de búsqueda proponiéndole alternativas de viviendas acordes a las necesidades de cada persona.', '# El Nuevo Portal CASAVERSO es de BancoEstado Sí, este nuevo portal ha sido desarrollado por BancoEstado considerando las necesidades de los clientes, las condiciones actuales y futuras del mercado inmobiliario y las nuevas tecnologías emergentes a nivel mundial.']"
+"Si yo quiero saber qué es CASAVERSO y qué servicios incluye, ¿me puedes explicarlo?","CASAVERSO es el ecosistema digital de vivienda de BancoEstado que reúne todos los servicios relacionados con la compra, venta y financiamiento de propiedades en un solo lugar. 
+
+Es una plataforma integral que conecta diferentes servicios como asesoría, financiamiento, inmobiliarias, corredores, notarías y trámites, facilitando todo el proceso de vivienda para los usuarios.
+
+¿Te gustaría que te explique más sobre cómo funciona CASAVERSO o qué servicios específicos ofrece?","['# Qué es CASAVERSO CASAVERSO es el ecosistema de vivienda y construcción de BancoEstado. Es una plataforma digital donde todos los mundos que hoy están dispersos -asesoría, financiamiento, inmobiliarias, corredores, notarías y trámites- se reúnen en un mismo lugar. CASAVERSO: el universo completo de la vivienda, en un solo lugar.', '# El Nuevo Portal CASAVERSO es de BancoEstado Sí, este nuevo portal ha sido desarrollado por BancoEstado considerando las necesidades de los clientes, las condiciones actuales y futuras del mercado inmobiliario y las nuevas tecnologías emergentes a nivel mundial.']"
+"Si ingreso mis credenciales de BancoEstado, ¿qué puedo ver o solicitar en la plataforma?","Al ingresar con tus credenciales de BancoEstado, podrás:
+
+1. Visualizar si tienes una oferta hipotecaria disponible.
+2. Solicitar una preaprobación de crédito hipotecario en línea.
+
+¿Te gustaría conocer más detalles sobre cómo obtener una preaprobación hipotecaria?","['# Qué funcionalidades puedo acceder al registrar mis credenciales BancoEstado Una vez ingresaste con credenciales BancoEstado podrás visualizar si cuentas con una oferta hipotecaria disponible y/o solicitar una preaprobación en línea.', '# Si soy cliente del BancoEstado, ¿puedo ingresar con mis credenciales del banco? Sí, puedes ingresar a tu cuenta en CASAVERSO con tu RUT y clave internet con la que ingresas habitualmente a tu Banca en Línea.']"
+¿Qué ocurre cuando envío una solicitud de aprobación de crédito hipotecario?,"Cuando envías una solicitud de aprobación de crédito hipotecario en nuestro portal, sucede lo siguiente:
+
+Si tienes una Oferta Preaprobada o generaste una preaprobación en línea, y navegaste desde una propiedad disponible en nuestro Portal con entrega inmediata, tu solicitud será derivada automáticamente a:
+
+1. Un ejecutivo de BancoEstado a cargo del proyecto
+2. La inmobiliaria del proyecto 
+
+Ambos te contactarán para avanzar en el proceso de tu crédito hipotecario.
+
+¿Te gustaría conocer más detalles sobre cómo iniciar tu solicitud de crédito hipotecario?","['# Qué pasa cuando envío una solicitud de aprobación de crédito hipotecario SI cuentas con una Oferta Preaprobada o se generó una preaprobación en línea y, navegaste desde una propiedad disponible en el Portal con entrega inmediata, se derivará tu solicitud a un ejecutivo de BancoEstado a cargo del proyecto en el cual estas interesado y, a la inmobiliaria del proyecto para que te contacten y avanzar en el proceso.', '# Quién emite la solicitud de crédito hipotecario y cuál es su descripción La fuente del documento SOLICITUD DE CREDITO HIPOTECARIO es BancoEstado y es el Formulario proporcionado por el banco para la solicitud del crédito.']"
+¿Qué hago si no recuerdo mi clave de BancoEnLínea y quiero entrar al portal Casaverso?,"Si no recuerdas tu clave de BancoEnLínea, debes recuperarla directamente en el sitio web de BancoEstado. Una vez que recuperes tu clave, podrás acceder sin problemas al portal Casaverso.
+
+Ejemplo: Ingresa a la página web oficial de BancoEstado, busca la opción ""Recuperar clave"" y sigue los pasos indicados.
+
+¿Te gustaría que te explique los pasos generales para recuperar tu clave?","['# Qué pasa si no recuerdo mis credenciales de la Bance en línea Debes ingresar al sitio web de BancoEstado y recuperar la clave Banco en línea y posterior a ello puedes acceder al portal CASAVERSO.', '# Si soy cliente del BancoEstado, ¿puedo ingresar con mis credenciales del banco? Sí, puedes ingresar a tu cuenta en CASAVERSO con tu RUT y clave internet con la que ingresas habitualmente a tu Banca en Línea.']"
+k puedo entrar al casaverso con mi user y clave del banco?,"Sí, puedes ingresar a Casaverso con tu RUT y clave de internet que usas habitualmente en la Banca en Línea de BancoEstado. 
+
+Es muy fácil: simplemente utiliza las mismas credenciales con las que accedes normalmente a tu cuenta bancaria online.
+
+¿Necesitas ayuda para iniciar sesión o quieres saber más sobre cómo buscar propiedades en Casaverso?","['# Si soy cliente del BancoEstado, ¿puedo ingresar con mis credenciales del banco? Sí, puedes ingresar a tu cuenta en CASAVERSO con tu RUT y clave internet con la que ingresas habitualmente a tu Banca en Línea.', '# Cómo puedo crear una cuenta en CASAVERSO Para crear una cuenta, anda al menú lateral y marca la opción Iniciar sesión. En esta página puedes registrarte en la plataforma presionando el botón Registrarse en CASAVERSO. Tip: Si eres cliente BancoEstado, puedes abrir tu cuenta sin necesidad de registro. Simplemente ingresa tu RUT y la clave que usas en tu Banca en Línea para entrar a tu cuenta.']"
+¿Cuánta antigüedad laboral necesito para poder solicitar un crédito hipotecario?,"La antigüedad laboral requerida para solicitar un crédito hipotecario varía según tu tipo de actividad o fuente de ingresos. 
+
+Generalmente, los bancos solicitan una estabilidad laboral comprobable, pero los requisitos específicos dependerán de tu situación particular (trabajador dependiente, independiente, etc.).
+
+¿Podrías contarme más sobre tu situación laboral actual para poder orientarte mejor sobre los requisitos de antigüedad?","['# Antigüedad y Situación Laboral para Solicitar Crédito Hipotecario La antigüedad laboral mínima requerida se encuentra en función de la actividad o tipo de ingreso del cliente. (diferencias en sitio público)', '# Rango de edad mínima y máxima para solicitar Crédito Hipotecario Edad Mínima de 18 años con un máximo de 72 años y 364 días, según el plazo del crédito, a saber, exigencia asociada al seguro de desgravamen: Plazo crédito hasta 8 años, edad máxima de ingreso 72 años con 364 días Plazo crédito hasta 12 años, edad máxima de ingreso 69 años con 364 días Plazo crédito hasta 15 años, edad máxima de ingreso 66 años con 364 días Plazo crédito hasta 20 años, edad máxima de ingreso 61 años con 364 días Plazo crédito hasta 25 años, edad máxima de ingreso 56 años con 364 días Plazo crédito hasta 30 años, edad máxima de ingreso 50 años con 364 días La edad máxima de']"
+"Si tengo varios créditos y mi nivel de endeudamiento está alto, ¿puedo aun así solicitar un crédito del Banco Estado o me van a rechazar por no cumplir con el buen comportamiento y el nivel de deuda que piden?","Entiendo tu preocupación sobre solicitar un crédito con un nivel de endeudamiento alto. 
+
+Según nuestros criterios de evaluación, el banco analiza tu comportamiento de pago y tu capacidad de endeudamiento. Si tienes varios créditos vigentes que representan un alto nivel de deuda, es probable que tu solicitud sea más compleja de aprobar.
+
+Te recomiendo:
+1. Revisar previamente tu comportamiento de pago en el sistema financiero
+2. Verificar tu capacidad real de pago para un nuevo crédito
+3. Considerar opciones como consolidar o refinanciar deudas antes de solicitar un nuevo préstamo
+
+¿Te gustaría que te explique cómo podemos evaluar tu situación financiera para mejorar tus posibilidades de aprobación?","['# Buen comportamiento y endeudamiento Al momento de la evaluación, el o los solicitantes, deberán contar con un endeudamiento que permita al cliente asumir una obligación crediticia y un buen comportamiento de pago de sus obligaciones financieras. Los antecedentes de endeudamiento y comportamiento deben cumplirse al momento de presentar la solicitud, como también al momento de la resolución del crédito', 'Por ejemplo, un auto podría ser una necesidad, pero uno último modelo pasa a convertirse en un deseo. 2. ¿Es la única alternativa para adquirir lo que necesitas?Tal vez puedas alcanzar tus metas a través del ahorro, aunque te lleve un poco más de tiempo. 3. ¿Cuánto necesitas pedir?No te tientes con un saldo extra que te pueda meter en aprietos económicos a futuro. 4. ¿Cuánto puedes pagar mensualmente?Un nivel de endeudamiento ideal no sobrepasa el 30% del ingreso líquido familiar disponible. 5. ¿Puedes sostener el pago de una cuota de crédito durante un plazo determinado?Calcula lo que debes pagar y si puedes mantener tu flujo durante la duración del crédito.']"
+"Oye, ¿cómo funciona eso de sumar la renta con otra persona para un crédito hipotecario y quiénes pueden ser codeudores?","La complementación de renta te permite sumar los ingresos con otra persona para obtener un crédito hipotecario. Hay dos modalidades principales:
+
+1. Con familiares directos (cónyuge, conviviente, padres, hermanos o hijos): Ambos son responsables del crédito y se suman sus ingresos.
+
+2. Con un tercero sin vínculo familiar: También pueden complementar renta, asumiendo ambos la responsabilidad del crédito.
+
+Un detalle importante es que para créditos con subsidio, solo puede haber un comprador, que debe ser el beneficiario del subsidio o su cónyuge.
+
+¿Te gustaría que te explique más sobre cómo funciona la evaluación de ingresos en un crédito hipotecario?","['# Complementación de Renta Crédito Hipotecario Para complementar renta puedes sumar tus ingresos con los de otra persona, familiar o no familiar, y se considerará la capacidad de pago de ambos solicitantes de manera conjunta e individualmente. Esto quiere decir que se considera la suma de los compromisos financieros de ambos para definir la capacidad de pago. En este caso, ambos participantes deudor y codeudor o segundo titular, asumen la condición de deudores. Es decir, ambos tienen la responsabilidad del pago del crédito. En la complementación de renta con un comprador o codeudor cónyuge, conviviente civil, pareja con hijo en común o familiar directo por consanguinidad (padres, hermanos o hijos).', '# ¿Puedo complementar renta con un codeudor? Se puede complementar renta con un codeudor o con 2 o mas compradores, todos los participantes deben cumplir con las políticas comerciales y de riesgo vigente en BancoEstado.']"
+¿Cuál es el porcentaje máximo de financiamiento que me pueden otorgar y en qué casos llega al 90%?,"Según nuestros criterios de financiamiento hipotecario, podemos ofrecerte:
+
+• Hasta 80% de financiamiento como regla general
+• Hasta 90% de financiamiento SOLO en casos específicos:
+- Primera vivienda (nueva o usada)
+- Compra con Fondo de Garantía Estatal (FOGAES)
+
+El porcentaje se calcula tomando el menor valor entre el precio de venta y la tasación del inmueble.
+
+¿Te gustaría que te explique más sobre los requisitos para acceder al 90% de financiamiento?","['# ¿Se puede financiar cualquier porcentaje del valor de la vivienda? Se puede financiar hasta el 90% del valor de la propiedad (menor valor entre la tasación y precio de venta de la vivienda).', '# Financiamiento para Solicitar Crédito Hipotecario Financiamiento hasta 80%. Financiamiento hasta el 90% sólo para adquisición de primera vivienda, nueva o usada y compra con Fondo de Garantía Estatal (FOGAES). Para definir el porcentaje de financiamiento se tomará el menor monto entre el precio de venta y el valor de tasación del bien. Para determinar el valor de propiedades con venta en verde, se tomará el menor valor entre la venta en verde y la tasación estimada del bien']"
+"¿Qué pasa si estoy en el Registro Nacional de Deudores de Pensiones de Alimentos al pedir un crédito, me revisan según la nueva ley 21.389?","Sí, según la Ley 21.389, si estás registrado en el Registro Nacional de Deudores de Pensiones de Alimentos, el banco revisará tu situación durante todo el proceso de solicitud de crédito. 
+
+Esta verificación puede afectar tu evaluación crediticia, ya que el banco considerará tu condición de deudor de pensiones alimenticias al momento de analizar tu solicitud.
+
+¿Te gustaría conocer más detalles sobre cómo esta ley podría impactar tu solicitud de crédito?","['# Ley 21.389 de Pensiones El Banco revisará durante todo el proceso del crédito si el cliente se encuentra en el Registro Nacional de Deudores de Pensiones de Alimentos para evaluar si corresponde aplicar las indicaciones de la Normativa Implementación de la nueva ley 21.389 en Registro Deudores Pensión Alimenticia.', 'Cliente no debe estar inscrito en el Registro Nacional de Deudores de Pensión de Alimentos que Regula la Ley N°21.389. Cumplir con las políticas de evaluación comercial y de riesgo definidas por el Banco.']"
+"Oye, ¿tengo que ser chileno para pedir un crédito hipotecario o me vale si soy extranjero con residencia definitiva?","Puedes solicitar un crédito hipotecario si eres chileno o extranjero con permanencia definitiva en Chile. Lo importante es cumplir con los requisitos comerciales y normativos que establece el banco.
+
+Un ejemplo sería: si eres un extranjero con residencia definitiva y cumples con los requisitos financieros, podrás postular al crédito.
+
+¿Te gustaría conocer más detalles sobre los requisitos específicos para obtener un crédito hipotecario?","['# Nacionalidad para Solicitar Crédito Hipotecario Chilena o extranjera con permanencia definitiva. Sujeto a cumplimiento de requisitos comerciales y normativos vigentes a la fecha de otorgamiento.', '# ¿Puedo solicitar un crédito hipotecario si tengo ingresos en el extranjero? Una persona con ingresos percibidos en el extranjero (chilenos en el exterior), puede solicitar un crédito hipotecario siempre que los ingresos declarados se encuentren visados ante el Consulado de Chile correspondiente al país de residencia del cliente. Deberá presentar certificado de ingresos percibidos en el extranjero (declaración de impuesto o similar) Si tiene boletas de honorarios de últimos 6 meses, o contrato de trabajo.']"
+kiero saber si puedo usar deuda de bancoestado pa el pie del hipotecario,"Parece que hay un error en tu consulta. Según nuestra información, no puedes usar deuda de BancoEstado para el pie de un crédito hipotecario. 
+
+El pie (cuota inicial) debe ser aportado con recursos propios, lo que significa dinero que ya tienes ahorrado y no corresponde a un préstamo adicional.
+
+¿Te gustaría que te explique algunas estrategias para ahorrar el pie de tu primera vivienda?","['# ¿Puedo usar una tasación de otro banco? BancoEstado al igual que otros bancos requiere realizar su propia tasación, ya que cada entidad tiene criterios específicos de valoración. Por lo anterior no será valida una tasación de otra entidad para llevar a cabo el proceso de venta de un crédito hipotecario.', '# Pie para solicitar Crédito Hipotecario El pie (cuota contado) debe ser aportado con recursos propios y no debe corresponder a endeudamiento en BancoEstado u otras instituciones financieras.']"
+"Si tengo 58 años y quiero un crédito hipotecario a 15 años, ¿puedo postular o supero el límite de edad?","Según la información proporcionada, lamentablemente no podrías postular a un crédito hipotecario a 15 años si tienes 58 años.
+
+Para créditos con plazo de hasta 15 años, la edad máxima de ingreso es de 66 años con 364 días. Como tienes 58 años, superarías el límite de edad al final del crédito (58 + 15 = 73 años), lo cual excede la edad máxima de permanencia de 81 años y 364 días.
+
+¿Te gustaría explorar otras opciones de crédito con un plazo más corto que se ajuste a tu edad?","['# Rango de edad mínima y máxima para solicitar Crédito Hipotecario Edad Mínima de 18 años con un máximo de 72 años y 364 días, según el plazo del crédito, a saber, exigencia asociada al seguro de desgravamen: Plazo crédito hasta 8 años, edad máxima de ingreso 72 años con 364 días Plazo crédito hasta 12 años, edad máxima de ingreso 69 años con 364 días Plazo crédito hasta 15 años, edad máxima de ingreso 66 años con 364 días Plazo crédito hasta 20 años, edad máxima de ingreso 61 años con 364 días Plazo crédito hasta 25 años, edad máxima de ingreso 56 años con 364 días Plazo crédito hasta 30 años, edad máxima de ingreso 50 años con 364 días La edad máxima de', '# ¿Cuál es la edad mínima y máxima para contratar un Crédito Hipotecario? La edad mínima para solicitarlo es de 18 años, y la máxima de 72 años con 364 días (considerando un plazo del crédito de 8 años). La edad máxima de permanencia para efecto del seguro de desgravamen es de 81 años con 364 días. Se debe tener en cuenta que la edad de ingreso más el plazo del crédito, no debe superar la edad de permanencia.']"
+¿Cuál es el ingreso líquido mínimo que debo tener para solicitar un crédito hipotecario y qué opciones hay si lo complemento con un codeudor?,"Para solicitar un crédito hipotecario, necesitas tener un sueldo líquido de al menos $600.000. Sin embargo, tienes opciones para complementar tu renta:
+
+1. Puedes agregar un codeudor (con o sin vínculo familiar) para sumar ingresos.
+2. La renta combinada debe ser mayor o igual a $900.000 líquidos.
+3. El titular principal siempre debe mantener un ingreso mínimo de $600.000.
+
+Ejemplo: Si ganas $500.000, un codeudor que aporte $400.000 podría ayudarte a calificar.
+
+¿Te gustaría que te explique más sobre cómo funciona la evaluación de un crédito hipotecario?","['# Renta líquida Mínima para Solicitar Crédito Hipotecario Sueldo líquido mayor o igual a $600.000 con opción de complementar renta con un codeudor, con o sin vínculo, o segundo comprador. Sujeto a evaluación comercial y de riesgo vigente al momento de otorgamiento del crédito. Opción de complementar renta con un codeudor, con o sin vínculo, o un segundo o tercer comprador. La renta de ambos ingresos debe ser mayor o igual a $900.000 pesos líquidos. Para complementación de renta, el titular del crédito debe cumplir con la renta mínima de $600.000. Sujeto a evaluación comercial y de riesgo vigente al momento de otorgamiento del crédito.', '# Requisitos para obtener un crédito hipotecario Requisitos para obtener un crédito hipotecario: Mayor de 18 años. Nacionalidad chilena o extranjera con permanencia definitiva. Antecedentes comerciales de acuerdo con la Política Crediticia del Banco. Acreditar domicilio. Acreditar cuota contado (pie) requerida para optar al financiamiento hipotecario. Si eres trabajadores dependientes debes acreditar una antigüedad laboral de a lo menos 1 año. Si eres trabajador Independiente con título profesional, debes tener a lo menos 1 año desde la Iniciación de Actividades y, con título técnico, comisionista u otra prestación de servicios, debes tener a lo menos 2 años desde la Iniciación de Actividades.']"
+kiero saber q docu guardr pa mis gastos mensuales,"Entiendo que quieres saber qué documentos guardar para tus gastos mensuales. Aquí te doy algunos consejos:
+
+Debes guardar:
+1. Boletas de compras
+2. Comprobantes de pagos por internet
+3. Facturas de servicios (luz, agua, gas)
+4. Comprobantes de gastos de tu negocio o emprendimiento
+
+Te recomiendo:
+• Usar una carpeta o archivador con separadores por mes
+• Crear una sección para ""compras"" 
+• Escanear boletas que se puedan borrar con el tiempo
+• Mantener separados los gastos personales de los del negocio
+
+¿Te gustaría que te explique cómo organizar estos documentos de manera más práctica?","['Es clave que conozcas detalladamente todos tus gastos y tus ingresos. Por un lado, es fácil conocer tus ingresos, porque esperas que llegue ese monto todos los meses, sin embargo, la tarea que se hace más difícil es reconocer cada uno de nuestros gastos. Muchas veces no notamos la enorme cantidad de gastos que vamos generando, perdiendo el control de estos. Lo que te recomendamos es ir haciendo un registro de cada uno de tus gastos. Si eres más de papel y lápiz, toma nota en una libreta; o si prefieres, una excelente alternativa es descargar una aplicación para tu celular que te permita ordenar tus finanzas. El propósito de contar con este registro es que cada mes tengas conocimiento de los gastos que generas normalmente.', '# Qué documentos debes guardar para mantener en orden tus gastos Llevar un orden de nuestros gastos para mantener controladas nuestras finanzas no es fácil, pero tampoco es imposible, es cuestión de hacernos el hábito y poner en práctica algunos consejos: Mantén una carpeta o archivador, con separadores por mes: Mantén todos tus documentos que tienen que ver con tus finanzas juntos, reúne todos los archivos en un solo lugar. Si no puedes encontrar tus cuentas, no podrás pagarlas a tiempo. Cualquier cuenta que te llegue, anota en tu agenda el pago que deberás hacer en la fecha indicada, y guarda el comprobante en la carpeta de las cuentas pendientes. Si usas el servicio bancario de Internet.']"
+"Oye, ¿qué pasa si me atraso con los pagos de un crédito? ¿Me afecta a mí y al aval?","Sí, atrasarte con los pagos de un crédito puede tener consecuencias importantes tanto para ti como para tu aval:
+
+1. Gastos adicionales: Cuando te atrases, comenzarán a generarse intereses de mora y costos de cobranza que se sumarán a tu deuda original.
+
+2. Impacto en el aval: Si tienes un aval (generalmente un familiar o amigo), él también se verá afectado y podría tener que responder por tu deuda.
+
+3. Historial crediticio: Los atrasos quedarán registrados en tu historial crediticio, lo que dificultará que puedas obtener nuevos créditos en el futuro.
+
+¿Te gustaría que te explique cómo prevenir estos problemas y mantener un buen comportamiento de pago?","['Incurrir en gastos adicionalesCuando las entidades financieras detectan atrasos en el pago de la deuda se inicia el cobro de intereses de mora y en etapas posteriores el proceso de cobranza prejudicial. En la gran mayoría de las ocasiones, las entidades financieras contratan servicios de empresas especializadas en estos procesos y dichos costos son asumidos por el usuario y se le cargan a la deuda. 2. Implicar a otros (Aval)Atrasarse en los pagos puede afectar adicionalmente al Aval. Es decir, a la persona que se comprometió a responder por el compromiso, comúnmente un familiar o amigo cercano. 3.', 'Es decir, a la persona que se comprometió a responder por el compromiso, comúnmente un familiar o amigo cercano. 3. Afectar historial crediticioPara otorgar créditos, las instituciones financieras evalúan el comportamiento de pago de las personas, por lo que estar en los registros de morosidad podría impedir contar con el dinero de un crédito nuevo cuando lo requieras. Por eso es importante mantener una situación financiera saludable.']"
+kiero saber q reqs pa renegociar mis deudas y q cosas no puedo hacer,"Basándome en el documento proporcionado, te explico los requisitos para renegociar deudas:
+
+Requisitos principales:
+1. Tener 2 o más deudas vencidas:
+- Más de 90 días corridos
+- Actualmente exigibles
+- De distintos orígenes
+- Que sumen más de 80 UF (sobre $1.900.000)
+
+2. No tener demandas de liquidación forzosa en tu contra
+
+Documentos que necesitarás:
+- Declaración jurada de todas tus deudas
+- Declaración jurada de ingresos
+- Listado de tus bienes
+- Propuesta de renegociación
+- Cédula de identidad
+- Certificados de deudas
+- Certificados de dominio de bienes
+
+Cosas importantes a considerar:
+- Este trámite solo se puede hacer cada 5 años
+- Se realiza completamente online
+- La Superintendencia de Insolvencia y Reemprendimiento facilita el proceso
+
+¿Te gustaría que te explique paso a paso cómo iniciar el proceso de renegociación?","['# Aprende a renegociar una deuda La renegociación de las deudas es un procedimiento gratuito en el que la Superintendencia de Insolvencia y Reemprendimiento actúa como facilitadora de acuerdos entre una persona y las instituciones a las que les debe para renegociar las condiciones y/o ejecutar sus bienes que permitan pagar. El proceso consta de tres audiencias: una para determinar la deuda total; otra de renegociación y, luego, una de ejecución del acuerdo. Este trámite sólo se puede realizar cada cinco años, los que se contarán desde la publicación de la Resolución de Admisibilidad de la solicitud de Renegociación de la persona deudora. Los requisitos para iniciar el procedimiento son: 1.', '# Aprende a renegociar una deuda La renegociación de las deudas es un procedimiento gratuito en el que la Superintendencia de Insolvencia y Reemprendimiento actúa como facilitadora de acuerdos entre una persona y las instituciones a las que les debe para renegociar las condiciones y/o ejecutar sus bienes que permitan pagar. El proceso consta de tres audiencias: una para determinar la deuda total; otra de renegociación y, luego, una de ejecución del acuerdo. Este trámite sólo se puede realizar cada cinco años, los que se contarán desde la publicación de la Resolución de Admisibilidad de la solicitud de Renegociación de la persona deudora. Los requisitos para iniciar el procedimiento son: 1.']"
+¿Cómo calculo cuánto puedo destinar al pago de deudas según mis ingresos?,"Para calcular cuánto puedes destinar al pago de deudas, sigue estos pasos simples:
+
+1. Multiplica tu ingreso mensual por 0.30 (30%). Este es el monto máximo recomendado para el pago de todas tus deudas.
+
+Ejemplo práctico: 
+Si ganas $500.000 al mes, tu capacidad de pago sería: $500.000 * 0.30 = $150.000 mensuales para deudas.
+
+La regla clave es no superar el 30% de tus ingresos en pagos de deudas, manteniendo un saldo positivo para gastos básicos del hogar.
+
+¿Te gustaría que te ayude a hacer el cálculo con tus ingresos específicos?","['# Cómo calcular tu capacidad de pago La recomendación de endeudamiento saludable es que tus deudas no superen el 30% de tus ingresos. Recuerda que es importante revisar ese monto cada vez que adquieres una nueva deuda, sumando el total de dinero destinado al pago de deudas. Ten en cuenta que las deudas no deben alterar el pago de los gastos básicos del hogar. Veamos el caso de una persona con un ingreso mensual de $600.000. En la Situación 1 se muestra que esta persona, entre sus gastos, tiene una deuda de $150.000 mensuales. A fin de mes, luego de restar a sus ingresos todos los gastos, le queda un excedente de $50.000.', 'Es tu responsabilidad y es mucho más simple de lo que parece. Capacidad de pago o capacidad de endeudamiento Para determinar tu capacidad de pago, debes partir revisando tu presupuesto y cumplir con dos condiciones: 1. Lo que te quede de dinero líquido. El saldo después de pagar todos tus gastos es lo que puedes destinar al pago de un crédito (o destinarlo al ahorro). 2. Este monto, junto a toda la suma destinada al pago de tus deudas (si es que tuvieras otras deudas anteriores) no debería superar el 30% de tu ingreso líquido, para no sobreendeudarte. Por lo tanto, la recomendación de endeudamiento saludable es que tus deudas no superen el 30% de tu ingreso.']"
+renegociar deuda requisitos,"Basándome en el documento proporcionado, aquí están los requisitos para renegociar una deuda:
+
+Requisitos principales:
+1. Tener 2 o más obligaciones vencidas:
+- Más de 90 días corridos
+- Actualmente exigibles
+- De distintos orígenes
+- Que sumen más de 80 Unidades de Fomento (sobre $1.900.000)
+
+2. No tener demandas de liquidación forzosa o juicios ejecutivos en su contra (excepto laborales)
+
+Documentos necesarios:
+- Clave única del Registro Civil
+- Declaración jurada de:
+  • Lista de todas las obligaciones
+  • Ingresos
+  • Listado de bienes
+  • Propuesta de renegociación
+
+Documentos adicionales recomendados:
+- Copia de cédula de identidad
+- Certificado de deudas
+- Certificados de dominio de bienes
+- Certificado de avalúo fiscal
+- Informe de boletas de honorarios de los últimos 24 meses
+
+¿Te gustaría que te explique más sobre cómo iniciar el proceso de renegociación?","['# Aprende a renegociar una deuda La renegociación de las deudas es un procedimiento gratuito en el que la Superintendencia de Insolvencia y Reemprendimiento actúa como facilitadora de acuerdos entre una persona y las instituciones a las que les debe para renegociar las condiciones y/o ejecutar sus bienes que permitan pagar. El proceso consta de tres audiencias: una para determinar la deuda total; otra de renegociación y, luego, una de ejecución del acuerdo. Este trámite sólo se puede realizar cada cinco años, los que se contarán desde la publicación de la Resolución de Admisibilidad de la solicitud de Renegociación de la persona deudora. Los requisitos para iniciar el procedimiento son: 1.', '# Aprende a renegociar una deuda La renegociación de las deudas es un procedimiento gratuito en el que la Superintendencia de Insolvencia y Reemprendimiento actúa como facilitadora de acuerdos entre una persona y las instituciones a las que les debe para renegociar las condiciones y/o ejecutar sus bienes que permitan pagar. El proceso consta de tres audiencias: una para determinar la deuda total; otra de renegociación y, luego, una de ejecución del acuerdo. Este trámite sólo se puede realizar cada cinco años, los que se contarán desde la publicación de la Resolución de Admisibilidad de la solicitud de Renegociación de la persona deudora. Los requisitos para iniciar el procedimiento son: 1.']"
+"Oye, ¿qué cosas tengo que chequear antes de pedir un crédito y qué tipos hay?","Antes de solicitar un crédito, es importante que te hagas 5 preguntas clave:
+
+1. ¿Realmente lo necesitas? Diferencia entre deseos y necesidades reales.
+2. ¿Es la única alternativa o puedes ahorrar?
+3. ¿Cuánto dinero necesitas pedir?
+4. ¿Cuánto puedes pagar mensualmente? (Recuerda: no más del 30% de tu ingreso líquido)
+5. ¿Puedes sostener el pago durante todo el plazo del crédito?
+
+En cuanto a los tipos de créditos, tenemos:
+• Línea de Crédito: Para usar cuando no tienes fondos en tu cuenta
+• Tarjeta de Crédito: Cupo para comprar bienes y servicios
+• Avances en Efectivo: Retiros de dinero desde tu tarjeta
+• Crédito de Consumo: Préstamo de 1 a 4 años para diversos usos
+• Crédito Hipotecario: Para compra de vivienda, hasta 30 años de plazo
+
+¿Te gustaría que profundice en alguno de estos tipos de crédito?","['# Lo que debes saber antes de solicitar un crédito Una vez conocida tu capacidad de pago, puedes informarte acerca del crédito y las alternativas existentes. El crédito es un préstamo de dinero que un banco o entidad financiera entrega a sus clientes, con el compromiso de que se lo devuelvan mediante cuotas (según sea pactado), y con un recargo que se denomina interés. Antes de solicitar un crédito, define: 1. ¿Para qué lo necesitas?¿Es un gasto prioritario o no lo es? Lo primero es diferenciar entre deseos y necesidades. Por ejemplo, un auto podría ser una necesidad, pero uno último modelo pasa a convertirse en un deseo. 2. ¿Es la única alternativa para adquirir lo que necesitas?', '# Buen comportamiento y endeudamiento Al momento de la evaluación, el o los solicitantes, deberán contar con un endeudamiento que permita al cliente asumir una obligación crediticia y un buen comportamiento de pago de sus obligaciones financieras. Los antecedentes de endeudamiento y comportamiento deben cumplirse al momento de presentar la solicitud, como también al momento de la resolución del crédito']"
+¿Cómo sé cuál es mi capacidad de endeudamiento y qué porcentaje de mi ingreso no debo sobrepasar?,"Según el documento, para determinar tu capacidad de endeudamiento debes seguir dos principios clave:
+
+1. Calcula el dinero líquido que te queda después de pagar todos tus gastos.
+
+2. El total de tus deudas NO debe superar el 30% de tu ingreso líquido.
+
+La recomendación es mantener un ""endeudamiento saludable"", donde tus deudas no comprometan tus gastos básicos del hogar. Cada vez que adquieras una nueva deuda, debes sumar y verificar que no excedas ese 30%.
+
+Ejemplo práctico: Si tu ingreso líquido mensual es $500.000, tu capacidad de endeudamiento sería de máximo $150.000 destinados al pago de deudas.
+
+¿Te gustaría que te explique cómo hacer un presupuesto para calcular tu capacidad de pago?","['Es tu responsabilidad y es mucho más simple de lo que parece. Capacidad de pago o capacidad de endeudamiento Para determinar tu capacidad de pago, debes partir revisando tu presupuesto y cumplir con dos condiciones: 1. Lo que te quede de dinero líquido. El saldo después de pagar todos tus gastos es lo que puedes destinar al pago de un crédito (o destinarlo al ahorro). 2. Este monto, junto a toda la suma destinada al pago de tus deudas (si es que tuvieras otras deudas anteriores) no debería superar el 30% de tu ingreso líquido, para no sobreendeudarte. Por lo tanto, la recomendación de endeudamiento saludable es que tus deudas no superen el 30% de tu ingreso.', '# Cómo calcular tu capacidad de pago La recomendación de endeudamiento saludable es que tus deudas no superen el 30% de tus ingresos. Recuerda que es importante revisar ese monto cada vez que adquieres una nueva deuda, sumando el total de dinero destinado al pago de deudas. Ten en cuenta que las deudas no deben alterar el pago de los gastos básicos del hogar. Veamos el caso de una persona con un ingreso mensual de $600.000. En la Situación 1 se muestra que esta persona, entre sus gastos, tiene una deuda de $150.000 mensuales. A fin de mes, luego de restar a sus ingresos todos los gastos, le queda un excedente de $50.000.']"
+"Cachai, ¿cómo le saco provecho a la tarjeta de crédito sin acabar hundido en deuda?","Aquí te dejo algunos consejos clave para usar tu tarjeta de crédito de manera inteligente:
+
+1. Paga siempre el total de la cuota, no solo el mínimo. Esto evita que la deuda crezca por intereses.
+
+2. Aprovecha la opción de pagar en 3 cuotas a precio contado. Es una estrategia para hacer rendir más tu dinero sin generar intereses adicionales.
+
+3. Revisa siempre tus estados de cuenta para verificar los cobros y condiciones.
+
+¿Te gustaría que te explique más sobre cómo manejar eficientemente tu tarjeta de crédito para evitar sobreendeudamiento?","['ir acumulándose y ocasionarnos algún apuro financiero. Trata de mantener un nivel de endeudamiento que se ajuste a tu bolsillo. - Gastos corrientes Evita usar tu tarjeta de crédito para pagar tus gastos corrientes. Esto podría llevarte a un nivel de sobreendeudamiento difícil de afrontar. Por el contrario, usa tu tarjeta de crédito cuando debas enfrentar gastos ocasionales de alto monto y en los que incurrirás una sola vez. Por ejemplo, la compra de un refrigerador. Otras recomendaciones que te pueden ayudar a darle un buen uso a tu tarjeta de crédito: Trata de que las compras que realices con tu tarjeta de crédito sea en productos que ofrecen meses sin intereses.', '# Cómo usar eficientemente tu Tarjeta de Crédito En algunos momentos, las tarjetas de crédito pueden ser el único medio del que disponemos para satisfacer nuestras necesidades básicas y, sobre todo, para adquirir productos o servicios necesarios o, por ejemplo, para un emprendimiento como capital de trabajo. Lo importante es saber utilizarlas eficientemente, de modo de no caer en el sobreendeudamiento. Para ello, es recomendable pagar, en lo posible, el total de la cuota pactada. No es recomendable sólo cancelar el pago mínimo, porque eso sirve para amortiguar la deuda: en rigor no pagas la cuota y sigues debiendo. La ventaja de la tarjeta de crédito es que permite, en el caso de ser riguroso, pagar en tres cuotas a precio contado.']"
+¿Cómo puedo planificar y fijar mis metas financieras?,"Basándome en el documento proporcionado, te comparto un método efectivo para planificar y fijar tus metas financieras en 4 pasos:
+
+1. Evalúa tus necesidades
+• Haz un ""inventario"" de tu situación financiera actual
+• Crea dos listas: lo que QUIERES y lo que NECESITAS
+• Pregúntate el ""por qué"" de cada objetivo
+
+2. Establece metas
+• Define metas específicas de corto y largo plazo
+• Recuerda que una meta es un ""sueño con fecha""
+• Puedes tener metas diarias, semanales, anuales y de vida
+
+3. Define un plan
+• Visualiza dónde quieres estar en 5, 10 y 20 años
+• Ordena tus acciones por importancia
+• Imagina los pasos para alcanzar tus metas
+
+4. Actúa
+• Escribe tus metas
+• Compártelas con personas cercanas
+• Ejecuta el primer paso (lo más importante)
+
+¿Te gustaría que profundice en alguno de estos pasos para tus metas financieras?","['# Cómo planificar y fijar metas financieras Hay muchas fórmulas para planificar y fijar metas financieras. Sin embargo, lo más importante es encontrar un enfoque y trabajar con éste. Este modelo de cuatro pasos te ayudará a alcanzar tus objetivos sin descuidar tu salud financiera. 1. Evalúa tus necesidades Necesitas decidir lo que QUIERES y lo que NECESITAS. 1. Evalúa tu situación monetaria actual. Le puedes llamar a esto “hacer un inventario” o “dar un paso hacia atrás para ver el panorama mejor”. Llámale cómo quieras, pero ¡no te lo saltes! 2. Haz dos listas: una con lo que QUIERES y otra con lo que NECESITAS. 3.', 'Establece metas El proceso de fijar metas incluye convertir tus necesidades en metas. Una meta es un resultado muy específico que tiene la intención de lograr algo. Puedes tener metas de corto y largo plazo. Puedes tener metas para el día, para la semana, para el año y para toda su vida. Una frase dice que una meta es un sueño con fecha. 3. Define un plan Es importante empezar a desarrollar un “plan de vida”. Pregúntate: ¿dónde quiero estar dentro de 5, 10 y 20 años? Una vez que tengas esto claro, podrás imaginar las acciones que necesitas llevar a la práctica para alcanzar esas metas. El próximo paso es visualizar el orden de importancia para esos pasos. ¿Qué es lo que harás primero, segundo... al final? 4.']"
+kiero saber cual son las ventajass de organizar mi plata mensual,"Entiendo que quieres saber sobre las ventajas de organizar tu dinero mensualmente. Basándome en la información, te explico:
+
+Las principales ventajas de organizar tus finanzas son:
+
+1. Sabrás exactamente en qué gastas tu dinero, evitando la típica pregunta ""¿En qué me gasté todo?"".
+
+2. Podrás ajustar tus gastos según tus ingresos, dando prioridad a lo más importante.
+
+3. Podrás fijar metas de ahorro para lograr objetivos como comprar casa, auto o viajar.
+
+4. Estarás preparado para emergencias inesperadas, teniendo un fondo de respaldo.
+
+Ejemplo: Si ganas $500.000, podrías destinar un 50% a gastos fijos, un 20% a ahorro y un 30% a gastos variables.
+
+¿Te gustaría que te explique cómo comenzar a organizar tu presupuesto mensual?","['# Ventajas de organizar mis finanzas personales Organizar nuestras finanzas personales y la distribución de nuestros ingresos, es un paso fundamental para disminuir preocupaciones al momento de gastar y lograr mayor estabilidad económica. ¿Por qué organizar mis ingresos mensuales? No hay que ser experto para empezar a organizar las finanzas y ahorrar dinero para tener un futuro más estable, y, sobre todo, sin preocupaciones por deudas que tal vez olvidamos pagar. En nuestro día a día enfrentamos constantemente diferentes tipos de gastos, ya sea por necesidad o porque queremos darnos un gusto, evaluando qué comprar, cómo pagar (ya sea al contado o con crédito), entre otras dudas. ¿Lo importante?', '¿Lo importante? Debes establecer un presupuesto, ordenarlo y respetarlo para que no te estreses porque se te fueron los ingresos y apenas puedes llegar a fin de mes. Ventajas Es muy importante que entiendas que planificar y ordenar nuestras finanzas tiene un beneficio directo para ti y apunta a un crecimiento personal y económico. Dentro de las principales ventajas se presentan: - Sabes cuánto y en qué gastas tus ingresos. Así, te evitas estar a fin de mes ante la interrogante “¿En qué me gasté todo mi dinero?”. - Puedes ajustar tus gastos de acuerdo a tus ingresos.']"
+¿Qué pasos me recomiendas seguir para no llegar justo a fin de mes?,"Basándome en el documento, te recomiendo seguir 3 pasos clave para mejorar tu situación financiera:
+
+1. Conoce detalladamente tus ingresos y gastos
+Lleva un registro preciso de cada gasto que realizas. Puedes usar una libreta o una aplicación de finanzas personales. El objetivo es tener claridad total de dónde se va tu dinero.
+
+2. Reduce gastos de manera inteligente
+Prioriza tus gastos esenciales y recorta aquellos que no son de primera necesidad. Busca un equilibrio entre cubrir tus necesidades básicas y darte pequeños gustos, sin comprometer tu presupuesto.
+
+3. Crea un fondo de emergencias
+Comienza a ahorrar, aunque sea poco. La clave es lograr que tus gastos sean menores que tus ingresos. Este fondo te dará tranquilidad para enfrentar imprevistos sin necesidad de endeudarte.
+
+¿Te gustaría que te explique cómo puedes implementar estos pasos de manera práctica en tu día a día?","['# 3 pasos para no llegar justos a fin de mes Mantener un hogar, alimentarnos, comprar gasolina para el automóvil, arreglar una bicicleta, adquirir mercadería para el mes y, básicamente… subsistir. En definitiva, lo que necesitamos es dinero y es muy importante aprender a manejarlo para satisfacer nuestras necesidades y no llegar tan justos a fin de mes.} Aquí te contamos 3 pasos básicos que pueden ayudarte a llegar a fin de mes con algo más de holgura: Conoce muy bien tus ingresos y tus gastos Definitivamente el primer paso y el más importante para poder llegar a fin de mes es organizar tus finanzas personales. Es clave que conozcas detalladamente todos tus gastos y tus ingresos.', '¡Pero no olvides ahorrar parte de tu presupuesto para fin de mes! Ahorra y crea tu fondo de emergencias ¿Te cuesta ahorrar? Es simple, si logras que tus gastos sean menores que tus ingresos, ya estás ahorrando. Poco a poco vas a ir dejando una reserva mes a mes y a medida que avance el tiempo tu ahorro será cada vez mayor. Lo que te recomendamos es que esta reserva la utilices para crear tu fondo de emergencias. Este fondo te permitirá afrontar cualquier tipo de situación, ya sea a fin de mes o en cualquier momento de tu vida. ¿Lo mejor? Al estar preparado no vas a tener que endeudarte y puedes tener mayor tranquilidad para afrontar imprevistos.']"
+"Si me ofrecen un crédito informal para conseguir plata rápido, ¿qué riesgos podría enfrentar?","Basándome en la información proporcionada, los riesgos de un crédito informal son muy graves:
+
+1. Riesgos principales:
+- Extorsión y violencia al cobrar
+- Tasas de interés extremadamente altas que imposibilitan pagar la deuda
+- Ninguna regulación legal que te proteja
+- Plazos de pago muy cortos
+- Posible exposición de tu vida personal y de tu entorno familiar
+
+2. Ejemplo concreto de la gravedad: En 2022 se registraron más de 7 mil denuncias por estafas virtuales de productos crediticios, con 40 entidades informales operando fraudulentamente.
+
+¿Te gustaría que te explique algunas alternativas seguras para obtener dinero dentro del sistema financiero formal?","['¿Qué riesgos tienen los créditos informales? Si bien las entidades y personas naturales que operan fuera del sistema oficial de préstamos o créditos ofrecen una forma fácil y simple de obtener dinero, este sistema trae consecuencias que las personas no consideran o desconocen al momento de aceptar el trato. A continuación, te dejamos algunas: - Extorsión y violencia al momento de exigir los cobros. - Altas tasas de interés que superan la tasa máxima convencional, lo que a la larga imposibilita pagar la deuda completa, que cada vez va aumento. - No cuentas con alguien que regule el proceso. - Exigencia de pagos en plazos muy cortos. - Expones tu vida personal y la de quienes te rodean en caso de no poder pagar.', '# El alza de los créditos informales y sus consecuencias En Chile, la solicitud de créditos informales ha ido en aumento. Buscando obtener fuentes de dinero más accesibles, las personas acuden a estos créditos fuera del sistema financiero formal, sin ningún tipo de supervisión de alguna entidad legal, exponiéndose a graves consecuencias que no tienen dónde denunciar. Hacia mediados del año 2022 se habían recibido más de 7 mil denuncias en Chile por estafas virtuales de productos crediticios, y más de 40 entidades informales que operaban de forma fraudulenta fueron informadas por la Comisión del Mercado Financiero (CMF), organismo encargado de regular a todas las instituciones que prestan dinero. ¿Qué riesgos tienen los créditos informales?']"
+¿Cómo utilizo el simulador de crédito personal en la web de BancoEstado?,"Para utilizar el simulador de crédito personal en nuestro sitio web, sigue estos pasos simples:
+
+1. Ingresa al sitio web de BancoEstado y busca la herramienta de simulación de créditos personales.
+
+2. Selecciona el monto que deseas solicitar. Puedes elegir entre 6 y 60 cuotas para pagar tu crédito.
+
+3. Define el plazo y las cuotas que mejor se ajusten a tu capacidad de pago.
+
+4. Si lo deseas, puedes incluir un seguro adicional.
+
+El simulador te permitirá ver de manera rápida y sencilla el monto mensual que deberás pagar y el total de la deuda.
+
+¿Te gustaría que te explique más sobre cómo interpretar los resultados del simulador?","['# Simulador crediticio: una gran herramienta para tomar decisiones Los créditos son un mundo de información que debemos conocer al momento de solicitarlos. Cuotas, montos a pagar mensualmente, tiempo que voy a mantener la deuda, intereses, entre otros aspectos, son parte de los datos básicos que tenemos que tener a mano. Para ello, la herramienta de simulación crediticia disponible en el sitio web de BancoEstado te facilita la vida. En este simulador puedes conocer las condiciones de un crédito personal introduciendo el monto, plazo y cuotas que quieras (pueden ser entre 6 y 60 cuotas), e incluso incluir el tipo de seguro si deseas contratar alguno.', 'En este simulador puedes conocer las condiciones de un crédito personal introduciendo el monto, plazo y cuotas que quieras (pueden ser entre 6 y 60 cuotas), e incluso incluir el tipo de seguro si deseas contratar alguno. La importancia de informarse Este tipo de herramientas es de gran utilidad para organizar nuestras deudas, ya que podemos formarnos un conocimiento previo del monto de dinero que debemos pagar mensualmente y del total de la deuda pactada a pagar. Así, podemos decidir si efectivamente nos encontramos en el momento de enfrentar una deuda. Sin embargo, es importante tener en cuenta que este tipo de herramientas nos entrega cifras que no suelen ser definitivas, pero sí nos ayudan como referencia. Es necesario informarse antes de solicitar un crédito. Siempre es bueno cotizar y evaluar opciones.']"
+¿Cómo usar bien mi tarjeta de crédito?,"Basándome en las recomendaciones, aquí te explico cómo usar bien tu tarjeta de crédito:
+
+1. Usa la tarjeta de crédito para gastos ocasionales de alto monto, no para gastos corrientes diarios. Por ejemplo, compra un refrigerador, pero no uses la tarjeta para comprar el mercado semanal.
+
+2. Paga el monto total facturado cada mes, no solo el mínimo. Esto te ayudará a evitar intereses adicionales y mantener un nivel de endeudamiento saludable.
+
+3. Busca compras con meses sin intereses, generalmente los bancos ofrecen 3 cuotas sin intereses en algunas promociones.
+
+4. Revisa mensualmente tu estado de cuenta para controlar tus gastos y detectar cualquier movimiento inusual.
+
+5. Evita hacer avances en efectivo, salvo en emergencias, ya que generan comisiones e intereses inmediatos.
+
+¿Te gustaría que te explique más sobre cómo mantener un uso responsable de tu tarjeta de crédito?","['# Cómo usar eficientemente tu Tarjeta de Crédito En algunos momentos, las tarjetas de crédito pueden ser el único medio del que disponemos para satisfacer nuestras necesidades básicas y, sobre todo, para adquirir productos o servicios necesarios o, por ejemplo, para un emprendimiento como capital de trabajo. Lo importante es saber utilizarlas eficientemente, de modo de no caer en el sobreendeudamiento. Para ello, es recomendable pagar, en lo posible, el total de la cuota pactada. No es recomendable sólo cancelar el pago mínimo, porque eso sirve para amortiguar la deuda: en rigor no pagas la cuota y sigues debiendo. La ventaja de la tarjeta de crédito es que permite, en el caso de ser riguroso, pagar en tres cuotas a precio contado.', 'Por el contrario, usa tu tarjeta de crédito cuando debas enfrentar gastos ocasionales de alto monto y en los que incurrirás una sola vez. Por ejemplo, la compra de un refrigerador. Otras recomendaciones que te pueden ayudar a darle un buen uso a tu tarjeta de crédito: Trata de que las compras que realices con tu tarjeta de crédito sea en productos que ofrecen meses sin intereses. Lo más común es que los bancos te ofrezcan 3 cuotas sin interés (a veces hay convenios o promociones por más cuotas sin interés). Lleva un orden de los pagos de tu tarjeta y cumple con las fechas de pago, evitando los retrasos. Revisa todos los meses tu estado de cuenta. Esta información llega a tu correo o puedes solicitarla directamente con tu banco.']"
+"Si gano $7.5 millones al año y trabajo emitiendo boletas de honorarios, ¿qué debo declarar y qué retenciones me corresponden?","Basándome en la información proporcionada, puedo orientarte sobre tu declaración de renta:
+
+En tu caso, al ganar $7.5 millones anuales estás justo por debajo del tramo exento de impuestos (que es de $8.038.926). Sin embargo, como emites boletas de honorarios, debes declarar tus ingresos en el Formulario 22 del SII.
+
+Aspectos importantes para tu declaración:
+
+1. Retención de boletas: Al emitir boletas de honorarios, te corresponde una retención del 12,25%.
+
+2. Cotizaciones previsionales: Siendo trabajador independiente, deberás cotizar obligatoriamente en AFP y salud. Tienes dos opciones:
+- Cobertura total: Destinas toda tu retención a cotizaciones (7% salud y el resto a pensiones)
+- Cobertura parcial: Puedes cotizar un monto menor, reduciendo tu cobertura de subsidios
+
+Recomendaciones:
+- Prepara todas tus boletas de honorarios
+- Ten tu clave tributaria del SII
+- Considera asesoría de un contador para evitar errores
+
+¿Te gustaría que te explique más sobre cómo preparar tu declaración de impuestos?","['Las personas naturales que se encuentran bajo el tramo exento de impuesto, es decir, con ingresos anuales, iguales o inferiores a $8.038.926, deberán presentar la Declaración de Impuestos Anuales a la Renta a efecto de solicitar devolución de remanentes, cuando corresponda, provenientes de retenciones de impuestos practicadas, pagos provisionales mensuales (PPM) efectuados y créditos tributarios (por ejemplo, el crédito por Impuesto de Primera Categoría con derecho a devolución). ¿Y si emito boleta de honorarios? Si trabajas a honorarios es muy importante que una vez al año declares tus boletas en el sitio del SII (de lo contrario, no recibirás lo que corresponda a la retención de tu dinero).', 'Boletas de Honorarios correspondientes a los últimos 6 meses. Últimas 2 Declaraciones de Impuestos Anual a la Renta o Global Complementario. Si eres Jubilado o Pensionado: Última Liquidación de Jubilación o Pensión. Si eres Rentista: Contrato de arriendo de bienes raíces suscrito a tu nombre, debidamente notariado con antigüedad mínima de 1 año o con un anexo de contrato notariado, que acredite la vigencia del arriendo (en caso de estar suscrito por un tercero, debe indicar que se arrienda en representación de su dueño).']"
+"Si mi casa sufrió daños por las últimas lluvias y tengo un seguro de hogar con BancoEstado, ¿cómo puedo denunciar el siniestro?","Para denunciar el siniestro de tu seguro de hogar por daños causados por las últimas lluvias, tienes dos opciones:
+
+1. Llamar a Fono Seguros al 600 660 1212, donde los teleoperadores te guiarán en todo el proceso.
+
+2. Ingresar a www.bancoestado.cl/denunciatusiniestro, donde podrás:
+- Seleccionar ""Denuncio para Persona""
+- Ingresar tu RUT 
+- Seleccionar el seguro de hogar
+- Llenar el formulario
+
+En los 30 minutos siguientes, recibirás un correo de confirmación. En los próximos días, un liquidador te informará qué documentación necesitarás presentar digitalmente.
+
+¿Te gustaría que te explique más detalles sobre el proceso de denuncia de siniestro?","['# Revisa el paso a paso para denunciar un siniestro Si tienes contratado algún seguro para tu inmueble y este ha sufrido un incidente material luego de los últimos eventos climatológicos, acá te explicamos cómo hacerlo efectivo. 1- ¿Qué hacer si tu hogar o propiedad comercial sufrieron daños materiales provocados por los recientes eventos climatológicos y tienes contratado algunos de estos Seguros para Bienes a través de BancoEstado Corredores de Seguros? - Seguro Hipotecario Incendio al Contenido - Seguro Hipotecario Incendio al Edificio - Seguro Incendio Hogar - Seguro Protección Hogar - Seguro Protección Global MYPE 2- ¿Dónde puedo realizar mi Denuncio de Siniestro?', 'Es recomendable mantener copia de la denuncia del siniestro o de los datos que permitan acreditar la oportuna notificación del siniestro que lo afectó. En cuanto al plazo para denunciar el siniestro este es en general de 30 días corridos desde la fecha del siniestro o desde que la compañía de seguros habilite los medios para hacer la denuncia. Si no tiene en su poder copia de la póliza de seguro, podrá solicitarla directamente a la compañía de seguros, corredor de seguro o entidad otorgante del crédito en caso de tratarse de un seguro de terremoto asociado a un crédito hipotecario.']"
+financiamiento ecovivienda requisitos,"El financiamiento especial para ecoviviendas tiene requisitos específicos para acceder a este beneficio:
+
+1. La vivienda debe ser nueva.
+2. Debe tener una calificación de eficiencia energética entre A y D.
+3. Puedes postular con o sin subsidio habitacional.
+
+Un ejemplo práctico sería una casa nueva construida con materiales sostenibles y con certificación energética B, que cumpliría con estos requisitos.
+
+¿Te gustaría conocer más detalles sobre las condiciones especiales de este tipo de financiamiento, como la tasa preferencial o el período de gracia?","['Un hogar es considerado ecovivienda cuando se encuentra entre las letras A y D. A diferencia de los préstamos tradicionales, el financiamiento especial para ecoviviendas ofrece condiciones favorables, como: - Una tasa preferencial del crédito hipotecario. - De 1 a 6 meses de período de gracia para el pago del primer dividendo. - Optar hasta 2 meses de no pago de tu dividendo en el año, si es que es un crédito hipotecario sin subsidio. - Pagar el dividendo mediante Pago Automático de Cuentas si tienes CuentaRUT, Chequera Electrónica o Cuenta Corriente de BancoEstado. Los requisitos son los siguientes: - Que la vivienda sea nueva. - Tu compra puede ser con o sin subsidio. - Que tenga Calificación de Eficiencia A, B, C o D.', '# Conoce el financiamiento especial para EcoViviendas El financiamiento especial para ecoviviendas es una opción de préstamo dirigida a aquellos que deseen adquirir viviendas sostenibles y amigables con el medio ambiente. Este tipo de financiamiento está diseñado para facilitar su acceso, promoviendo prácticas ecológicas y reduciendo el impacto ambiental. Al igual que los artículos electrónicos, los inmuebles son clasificados de la letra A a la G, siendo la A la más eficiente y la G la menos eficiente. Un hogar es considerado ecovivienda cuando se encuentra entre las letras A y D.']"
+"Oye, ¿cuánto me cobran por la reposición de la tarjeta CuentaRUT con entrega a domicilio?","Según la información proporcionada, la reposición de la tarjeta CuentaRUT con delivery tiene un costo de $3.900, con una excepción: si es una tarjeta antigua con banda magnética y sin chip, la reposición con delivery es gratuita.
+
+¿Te gustaría saber más sobre cómo solicitar la reposición de tu tarjeta?","['Selecciona tu cuenta de cargo. Acepta con BE Pass, y listo! 5.- ¿El Delivery de CuentaRUT tiene costo? La reposición de la tarjeta que incluye el delivery, tiene un costo de $3.900 a excepción de la reposición de tarjetas con banda magnética y que no tienen chip. En este caso, por ser tarjetas antiguas el servicio de reposición con delivery es gratuito. 6.- ¿Cuánto se demora la entrega de una tarjeta CuentaRUT con Delivery? La entrega de una tarjeta CuentaRUT puede demorar entre 3 y 8 días hábiles, dependiendo de la zona geográfica. 7.-¿Cómo puedo activar mi tarjeta CuentaRUT recibida en mi domicilio?', 'Reposición de tarjeta CuentaRUT por deterioro (presentando la tarjeta anterior que desea reemplazar), por migración a tarjeta con chip o por fecha de vencimiento. Adicionalmente, todas las Compras con RedCompra, Compraquí, WebPay. Cuando compres con RedCompra, además puedes pedir vuelto en comercios adheridos, sin costo. 11.- ¿Cuál es el beneficio de gratuidad adicional que tienen las personas mayores de 65 años o más? A las personas de 65 años o más, no se les cobrarán las tres primeras transferencias de fondos a otros bancos de cada mes desde el sitio web o App BancoEstado. A contar de la 4ta transacción de transferencia de fondos a otro banco, se cobrará según tarifario vigente.']"
+"Oye, ¿qué novedades trae la CuentaRUT ahora? ¿Hay cosas gratis o nuevas formas de usarla?","¡Claro! La CuentaRUT tiene varias novedades interesantes:
+
+Ahora todos los giros en cajeros y cajas de BancoEstado son completamente gratuitos. Además, las transferencias entre cuentas BancoEstado por app o web también son sin costo.
+
+Una novedad importante es que puedes usarla 100% digital con BE Pay, pagando con tarjetas VISA desde tu celular Android sin necesidad de tarjeta física. También ahora puedes recibir tu CuentaRUT por despacho a domicilio o en oficinas de Correos.
+
+¿Te gustaría que te explique más sobre cómo funciona BE Pay o los beneficios de la CuentaRUT?","['# Seguimos innovando en CuentaRUT A partir de septiembre, los 14,5 millones de clientes de CuentaRut podrán acceder a nuevos beneficios y funcionalidades. Todos los giros realizados en Cajeros Automáticos BancoEstado, Cajas BancoEstado, Cajas BancoEstado Express y CajaVecina pueden hacerse sin costo. Además, recordamos que también son gratuitas las siguientes transacciones con CuentaRUT: Transferencias de fondos entre Cuentas BancoEstado a través de la App o sitio web. Consultas de saldo y cartolas en Cajeros Automáticos BancoEstado, CajaVecina, App y sitio web BancoEstado. La nueva versión de CuentaRUT permite al cliente usarla 100% digital, no requiere de una tarjeta para comprar. Puede utilizar BE Pay, pagando con tarjetas VISA en celulares con sistema operativo Android.', 'Nuevas tarifas en CuentaRUT 10.- ¿Cuáles son las transacciones gratuitas de CuentaRUT en el mundo BancoEstado? Todas estas transacciones en el mundo BancoEstado, son gratuitas para ti: Todas las transferencias de fondos entre Cuentas BancoEstado a través de nuestra App o sitio web. Todos los giros en Cajeros Automáticos BancoEstado. Todos los giros por Caja en Sucursales BancoEstado, BancoEstado Express y puntos de CajaVecina. Todas las consultas de saldo y solicitud de cartolas en Cajeros Automáticos BancoEstado, CajaVecina, módulos de atención remota, App BancoEstado y sitio web BancoEstado. Reposición de tarjeta CuentaRUT por deterioro (presentando la tarjeta anterior que desea reemplazar), por migración a tarjeta con chip o por fecha de vencimiento.']"
+kiero saber q es la inflasion y como me afecta el precio de las cosas,"¿Quisiste decir ""qué es la inflación""? Te explico de manera sencilla:
+
+La inflación es el aumento generalizado de los precios de productos y servicios en un país. Cuando hay inflación, tu dinero pierde poder de compra, es decir, con el mismo monto podrás comprar menos cosas que antes.
+
+Ejemplo: Si hoy un pan cuesta $1.000 y el próximo año cuesta $1.100, eso refleja un incremento por inflación.
+
+¿Te gustaría saber cómo proteger tu dinero de la pérdida de valor por inflación?","['# INFLACIÓN Es la continua y persistente subida del nivel general de precios; se mide mediante un índice del coste de diversos bienes y servicios. Los aumentos reiterados de los precios erosionan el poder adquisitivo del dinero y de los demás activos financieros que tienen valores fijos, creando así serias distorsiones económicas e incertidumbre. La inflación es un fenómeno que se produce cuando las presiones económicas actuales y la anticipación de los acontecimientos futuros hacen que la demanda de bienes y servicios sea superior a la oferta disponible de dichos bienes y servicios a los precios actuales, o cuando la oferta disponible está limitada por una escasa productividad o por restricciones del mercado.', '# ¿Qué es la inflación? La inflación es un fenómeno económico que se caracteriza por el aumento generalizado y sostenido de los precios de bienes y servicios en un país. Este incremento de precios suele ser una respuesta a los esfuerzos de diversos actores del mercado por obtener mayores beneficios económicos. Entre las causas de la inflación se encuentran el aumento en la demanda de bienes que los productores no pueden satisfacer completamente, el aumento en los costos de producción y el crecimiento en la cantidad de dinero en circulación. Para medir la inflación se utiliza un indicador conocido como el Índice de Precios al Consumidor (IPC), que se basa en una canasta de productos y servicios representativos del consumo en el país.']"
+"Si yo compro un refrigerador a crédito solo mirando la cuota mensual, ¿qué costos ocultos como la CAE, el CTC o comisiones podrían terminar haciéndome pagar mucho más?","Al comprar un refrigerador a crédito solo mirando la cuota mensual, podrías enfrentar varios costos adicionales que aumentarían significativamente el precio final:
+
+1. Carga Anual Equivalente (CAE): Representa el costo total del crédito en un año, incluyendo intereses, cuotas y gastos operativos.
+
+2. Costos adicionales que pueden incrementar el precio:
+- Gastos de administración
+- Impuesto de Timbre y Estampilla
+- Seguro de Desgravamen
+- Comisiones bancarias
+
+Ejemplo práctico: Un refrigerador de $500.000 que parece accesible en cuotas de $20.000 podría terminar costándote $800.000 al final del crédito por estos costos ocultos.
+
+¿Te gustaría que te explique cómo identificar y comparar estos costos antes de adquirir un crédito?","['Sin pensarlo mucho, opté por comprarlo en la segunda tienda, sin embargo, más adelante me percaté de que había pagado una suma mayor debido a que no presté atención a la Carga Anual Equivalente (CAE). Esta cifra representa el costo del crédito en el transcurso de un año e incluye aspectos como la cantidad de cuotas, los intereses y los costos operativos, entre otros"". En resumen, al realizar compras a crédito, es fundamental examinar detenidamente la Carga Anual Equivalente (CAE) y el Costo Total del Crédito (CTC), este último muestra el MONTO TOTAL que deberá pagar si opta por la modalidad de crédito.', '# Esto es lo que ocurre al descuidar la cotización antes de solicitar financiamiento El acto de comparar precios se conoce como cotización y es una práctica esencial al solicitar un préstamo o al adquirir productos mediante el uso de tarjetas de crédito. No enfatizamos esto por simple insistencia, sino porque existen situaciones incómodas como las de estos ejemplos, que bien vale la pena evitar: Terminé abonando el doble por mi refrigerador por no considerar la Carga Anual Equivalente (CAE) y el Costo Total del Crédito (CTC). - ""Me agradaba un refrigerador en una tienda, pero observé que en otra tienda las cuotas para la adquisición del mismo eran más bajas.']"
+"Si voy a comprar regalos online esta Navidad, ¿qué precauciones debo tomar para evitar fraudes y proteger mis datos?","Para comprar regalos online de forma segura esta Navidad, te recomiendo seguir estos consejos clave:
+
+1. Verifica siempre que estás en el sitio web oficial antes de ingresar cualquier dato personal o financiero. Revisa la URL y asegúrate de que sea el sitio original.
+
+2. Usa tu computador personal para realizar transacciones y evita redes Wi-Fi públicas como cafés o centros comerciales, que pueden ser riesgosas.
+
+3. Activa las notificaciones de tu tarjeta para monitorear cualquier movimiento sospechoso en tiempo real.
+
+Un ejemplo práctico: Si compras en una tienda online, antes de pagar, verifica que la página tenga un candado de seguridad en la URL y sea https.
+
+¿Te gustaría que te explique más sobre cómo crear contraseñas seguras para tus compras online?","['# ¡Navidad segura! Consejos para realizar tus compras de fin de año Estamos en plena semana de compras de regalos. La temporada navideña es una de las más altas tanto para el comercio físico, como para el electrónico, es por eso que dejamos algunos consejos para concienciar a los usuarios sobre la importancia de proteger sus datos. Dado que un alto porcentaje de las transacciones del sistema financiero se realizan virtualmente, la inversión en ciberseguridad se convierte en una prioridad para reducir la probabilidad de fraude sobre todo durante la temporada navideña, época de compras intensas. Las personas también pueden aportar de su parte para evitar los intentos de estafas.', 'Las personas también pueden aportar de su parte para evitar los intentos de estafas. Acá les dejamos consejos para tus compras: - Notificaciones en tu Celular: Activa notificaciones para todas las movidas con tu tarjeta. - Chequea el Terreno Virtual: Antes de soltar tus datos, asegúrate de que estás en la página oficial del lugar donde compras. - Transacciones seguras: Usa tu computador personal para las movidas financieras. - Acceso al Portal Bancario: No entres al portal bancario usando links de SMS o correos electrónicos. - Evita el Wi-Fi del Café: No uses redes públicas cuando compres online.']"
+¿Qué acciones prácticas puedo hacer para ir ahorrando pequeñas cantidades cada mes?,"Basándome en el documento proporcionado, aquí te comparto algunas acciones prácticas para microahorrar cada mes:
+
+1. Venta de artículos no utilizados
+Revisa tu hogar y busca objetos como ropa que no uses, CD antiguos, o cualquier artículo en buen estado que puedas vender. Esto te generará pequeñas cantidades de dinero extra.
+
+2. Compras grupales al por mayor
+Coordínate con amigos o familiares para comprar productos de consumo frecuente en mayor volumen, lo que reducirá el precio unitario y te permitirá ahorrar.
+
+3. Reducción de consumo energético
+Implementa hábitos como:
+- Tomar duchas más cortas
+- Apagar luces innecesarias
+- Desconectar dispositivos cuando no los uses
+- Cambiar a bombillas de bajo consumo
+
+4. Optimización de la cocina
+Cocina en grandes cantidades para:
+- Reducir el consumo de electricidad
+- Disminuir gastos de ingredientes
+- Congelar porciones para consumo posterior
+
+¿Te gustaría que profundice en alguna de estas estrategias de microahorro?","['El resultado sería un descenso en los precios de los artículos que normalmente compra, lo que se traduciría en un microahorro. 3- Adoptar un enfoque ecológico Prácticas como tomar duchas más cortas, apagar las luces innecesarias, desconectar dispositivos en desuso, cambiar las bombillas por opciones de bajo consumo y cualquier otra medida que promueva la conciencia ambiental también contribuirá al ahorro de pequeñas cantidades de dinero. Cabe destacar que los dispositivos conectados consumen energía, lo que se traduce en un incremento en la factura al final del mes. 4- Cocinar en grandes cantidades La preparación de alimentos en cantidades mayores le permitirá reducir el consumo de electricidad.', 'Así te adaptas a los meses “buenos” y a los “más lentos”. 2. Ahorra antes de gastar Cuando te paguen, separa inmediatamente el dinero que vas a ahorrar. Después organiza el resto para tus gastos. Es más fácil que esperar a ver si queda algo a fin de mes. 3. Crea un fondo para los meses más difíciles Si un mes te va bien y ganas más, guarda una parte extra como colchón para los meses en que te llegue menos dinero. 4. Separa tus ahorros del dinero del día a día Puedes usar sobres, una cuenta digital o una app que te permita poner metas de ahorro. ¡Lo importante es que tus finanzas queden separadas, para que no gastes “sin querer”!']"
+¿Qué pasos debo seguir para salir de DICOM?,"Para salir de DICOM, te recomiendo seguir estos pasos principales:
+
+1. Pago de Deuda
+La forma más directa es cancelar completamente tu deuda pendiente. Una vez pagada, la institución financiera debe informar a DICOM para actualizar tu historial crediticio.
+
+2. Negociación con el Acreedor
+Puedes contactar al acreedor para:
+• Solicitar un plan de pago
+• Negociar descuentos
+• Establecer cuotas más accesibles
+
+3. Verificar Documentación
+Después de pagar, solicita un comprobante que acredite la cancelación total de tu deuda para respaldar la actualización de tu historial.
+
+Ejemplo: Si debes $500.000 a una tarjeta de crédito, puedes acordar pagarlo en 6 cuotas de $85.000.
+
+¿Te gustaría que te explique más sobre cómo negociar efectivamente con los acreedores?","['# ¿Cómo salir de DICOM? Como te contábamos en la nota anterior, en DICOM, las deudas que pueden afectar tu historial crediticio y comercial incluyen diversos compromisos financieros, como préstamos bancarios, tarjetas de crédito, deudas con instituciones comerciales o minoristas, arriendos impagos, entre otros. Básicamente, cualquier deuda o compromiso financiero que hayas contraído y no hayas cumplido puntualmente puede figurar en el registro. Si te encuentras en DICOM y buscas salir de esa situación, hay varias opciones a considerar: Pago de Deuda: La forma más directa para salir de DICOM es pagando la deuda pendiente. Una vez que la deuda ha sido saldada, la institución financiera o la entidad correspondiente debe informar a DICOM para actualizar tu historial crediticio.', 'Esperar la Caducidad: Las deudas en DICOM tienen un período de caducidad, generalmente después de cinco años. Después de este tiempo, la deuda puede eliminarse automáticamente del registro, aunque es importante verificar la legislación vigente para asegurarse de los plazos específicos. Es crucial tener en cuenta que es fundamental mantener una buena gestión financiera para evitar futuros problemas con DICOM. Mantener tus compromisos financieros al día y ser responsable con tus deudas contribuirá a construir y mantener una buena reputación crediticia.']"
+qué es DICOM,"DICOM es un registro nacional que recopila información comercial y financiera de las personas en Chile. Básicamente, es una base de datos que almacena el historial de compromisos financieros de cada individuo, como préstamos o tarjetas de crédito.
+
+Ejemplo: Si tienes un crédito bancario y pagas puntualmente, esa información se registra en DICOM, lo que puede ayudarte a mantener un buen perfil crediticio.
+
+¿Te gustaría saber cómo mantener un historial crediticio positivo?","['# ¿Qué es DICOM? DICOM, que significa ""Distribuidor de Información Comercial"", es la entidad en Chile encargada de recopilar y mantener información relacionada con el historial crediticio y comercial de las personas. Funciona como una base de datos que almacena información financiera, deudas y antecedentes comerciales de los individuos. Cuando una persona adquiere un compromiso financiero, como un préstamo o una tarjeta de crédito, la institución financiera correspondiente reporta esa información a DICOM. Esta entidad se encarga de centralizar esos datos para que otras empresas y entidades puedan acceder a ellos al evaluar la solvencia crediticia de una persona.', '# DICOM Empresa privada que registra datos comerciales de las personas y que se utilizan para evaluar el otorgamiento de créditos bancarios o de otro tipo. Los responsables de los registros de morosos tienen prohibido comunicar información sobre las deudas del consumidor cuando han pasado 5 años desde que su obligación se hizo exigible, aunque la deuda esté impaga.']"
+¿Cómo puedo evitar los gastos hormiga?,"Basándome en el documento proporcionado, aquí te doy algunos consejos para evitar los gastos hormiga:
+
+1. Lleva un registro detallado de todos tus gastos. Es como encender una luz que te permite ver exactamente dónde se va tu dinero.
+
+2. Establece un presupuesto fijo para cada tipo de gasto. Puedes usar tarjetas prepagadas o llevar un control estricto de cuánto puedes gastar en cada categoría.
+
+3. Revisa y elimina gastos innecesarios. Identifica servicios o compras que no estás realmente disfrutando y que solo mantienes por costumbre.
+
+Un ejemplo práctico sería revisar tus suscripciones mensuales y eliminar aquellas que no uses frecuentemente.
+
+¿Te gustaría que te ayude a crear un plan para identificar y reducir tus gastos hormiga?","['# Consejos para evitar los gastos hormiga En la nota anterior explicamos de qué se tratan los gastos hormiga, gasto fantasma y gastos vampiro y sus consecuencias. Aquí les dejamos algunos tips sencillos que pueden evitar que estos gastos afecten nuestras finanzas: ¡Anotar todo! Llevar un registro de los gastos puede sonar aburrido, pero es como encender la luz en una habitación oscura. Ayuda a ver dónde se va el dinero y así empezar a manejarlo mejor. Asignar un presupuesto fijo para cada gasto. Con tarjetas prepagadas o llevando un control riguroso, decir cuánto se puede gastar en cada cosa. Si se pasa, ¡se acabó! Esto evita que el dinero se escape sin darse cuenta. Cortar lo innecesario.', '¿Cómo reducir su impacto? Aquí te dejamos algunos consejos prácticos para reducir estos gastos en tu presupuesto: Anota tus gastos diarios: Llevar un registro de los “gastos hormiga” es clave para visualizar su impacto. Usa aplicaciones de control de gastos o, si prefieres, una libreta para anotar cada compra diaria. Haz una revisión mensual de tus suscripciones: Pregúntate si realmente usas todos los servicios por los que estás pagando. Cancelar los que no necesitas puede liberarte de varios “gastos vampiro”. Define un “fondo de gustos”: En lugar de eliminar los antojos por completo, asigna un monto mensual para estos gastos. Así podrás disfrutar de esos pequeños placeres, sin salirte de tu presupuesto.']"
+"Si gasto cada día un café y tengo una suscripción que casi olvido, ¿cómo pueden esos pequeños gastos afectar mi ahorro mensual?","Los gastos hormiga pueden tener un impacto significativo en tus finanzas mensuales. Por ejemplo, un café diario de $2.500 representa $75.000 al mes, y una suscripción olvidada de $10.000 suma otros $120.000 anuales. Estos pequeños gastos pueden restar hasta un 15-20% de tus ingresos sin que te des cuenta.
+
+Consejos para controlar estos gastos:
+1. Registra todos tus gastos diarios
+2. Revisa periódicamente tus suscripciones activas
+3. Establece un presupuesto para gastos menores
+
+¿Te gustaría que te ayude a crear una estrategia para identificar y reducir estos gastos hormiga?","['Un café aquí, una golosina allá, pueden parecer insignificantes, pero al sumarlos, representan un porcentaje considerable de nuestros ingresos mensuales. No menos preocupantes son los gastos fantasma, suscripciones o compromisos de gasto que olvidamos que hemos adquirido. Membresías de gimnasios o suscripciones a servicios de streaming pueden pasar desapercibidos en nuestra cuenta bancaria, pero su impacto en nuestras finanzas puede ser significativo a largo plazo. Finalmente, los gastos vampiro, aquellos gastos fijos que no consideramos en nuestro presupuesto de manera adecuada. El exceso en el uso de electrodomésticos, por ejemplo, puede hacer que nuestra cuenta de luz aumente sin que lo notemos, afectando silenciosamente nuestros recursos.', '# Gastos hormiga y vampiro: el impacto de los pequeños gastos en tus finanzas A veces parece que el dinero desaparece de nuestras cuentas sin saber a dónde va. Esto puede deberse a dos tipos de gastos silenciosos que afectan el presupuesto mensual: los gastos hormiga y los gastos vampiro. Los primeros se refieren a pequeñas compras diarias que se acumulan sin darnos cuenta, como el café de cada mañana o el snack de la tarde. Los segundos, en cambio, son consumos ocultos que “chupan” dinero de manera constante, como suscripciones que no usamos o electrodomésticos enchufados sin necesidad y que elevan los costos de la luz. ¿Cómo reducir su impacto?']"
