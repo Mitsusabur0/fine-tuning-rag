@@ -1,15 +1,17 @@
 import os
 
 # --- PATHS ---
-KB_FOLDER = os.getenv("KB_FOLDER", "./kb_small_testfolder")
-# PIPELINE_OUTPUT_DIR = os.getenv("PIPELINE_OUTPUT_DIR", "outputs/full_run_512")
-PIPELINE_OUTPUT_DIR = os.getenv("PIPELINE_OUTPUT_DIR", "outputs/full_test_reranker")
+
+# Input KB path
+KB_FOLDER = os.getenv("KB_FOLDER", "./kb_full")
+
+# Output paths
+PIPELINE_OUTPUT_DIR = os.getenv("PIPELINE_OUTPUT_DIR", "outputs/full")
+PIPELINE_CSV = os.getenv("PIPELINE_CSV", os.path.join(PIPELINE_OUTPUT_DIR, "full.csv"))
 
 
-PIPELINE_CSV = os.getenv(
-    "PIPELINE_CSV",
-    os.path.join(PIPELINE_OUTPUT_DIR, "pipeline_state.csv")
-)
+
+
 OUTPUT_RESULTS_PARQUET = os.getenv(
     "OUTPUT_RESULTS_PARQUET",
     os.path.join(PIPELINE_OUTPUT_DIR, "pipeline_state.parquet")
@@ -35,7 +37,7 @@ AWS_PROFILE_TEST_BEDROCK = os.getenv("AWS_PROFILE_TEST_BEDROCK", "744139898209_B
 
 # --- LLM CONFIG ---
 MODEL_ID = os.getenv("MODEL_ID", "openai.gpt-oss-120b-1:0")
-TEMPERATURE = float(os.getenv("TEMPERATURE", "0.7"))
+TEMPERATURE = float(os.getenv("TEMPERATURE", "1.0"))
 
 # LLM PRICING PER 1K TOKENS
 INPUT_PRICE = float(os.getenv("INPUT_PRICE", "0.00015"))

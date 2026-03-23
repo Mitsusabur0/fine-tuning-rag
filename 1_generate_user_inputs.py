@@ -69,17 +69,16 @@ QUERY_STYLES = [
         )
     },
     {
-        "style_name": "Mal Redactado",
+        "style_name": "Mal Escrito",
         "description": (
-            "El usuario escribe mal redactado, con faltas ortográficas, muy informal, o "
-            "con repetición innecesaria. "
+            "El usuario escribe mal, con faltas ortográficas, sin respetar reglas gramaticales, con errores de tipeo."
         )
     },
     {
         "style_name": "Errores Ortograficos",
         "description": (
             "El usuario escribe con errores ortográficos fonéticos en palabras clave del dominio hipotecario: "
-            "escribe como suena, no como se escribe. Ejemplos de errores válidos: "
+            "escribe como suena, no como se escribe. Ejemplos: "
             "'ipoteca' (hipoteca), 'subsídeo' (subsidio), 'rrequisitos' (requisitos), "
             "'haorro' (ahorro), 'abaluo' (avalúo), 'desgramen' (desgravamen). "
             "USA EL SENTINEL si el fragmento no contiene ninguna palabra técnica del dominio "
@@ -274,94 +273,98 @@ def generate_question_for_style(chunk_text, query_style, client, error_log, pars
 
     system_prompt = f"""
 <rol>
-Eres un especialista en generación de datos sintéticos para evaluación de sistemas RAG (Retrieval-Augmented Generation).
-Tu tarea es construir el Test Set del asistente de IA "Vivi" del portal Casaverso de Banco Estado, Chile.
+You are a specialist in synthetic data generation for evaluating RAG (Retrieval-Augmented Generation) systems.
+Your task is to build the Test Set for the AI assistant "Vivi" of the Casaverso portal of Banco Estado, Chile.
 </rol>
 
 <contexto_del_sistema>
-Vivi es un asistente conversacional de Banco Estado que ayuda a personas a entender y postular al crédito hipotecario. 
-Los usuarios reales del sistema son mayoritariamente personas de sectores medios y populares de Chile — trabajadores dependientes o independientes, muchos con escolaridad media, que buscan comprar su primera vivienda usando subsidios habitacionales (DS49, DS19, etc.) o créditos hipotecarios del Banco Estado.
-Muchos usan el celular para hacer sus consultas. Su vocabulario es cotidiano, no técnico.
+Vivi is a conversational assistant of Banco Estado that helps people understand and apply for a crédito hipotecario.
+The real users of the system are mostly people from middle and working-class sectors in Chile — dependent or independent workers, many with a secondary education level, who are looking to buy their first home using subsidios habitacionales (DS49, DS19, etc.) or créditos hipotecarios from Banco Estado.
+Many use their phones to make queries. Their vocabulary is everyday, not technical.
 </contexto_del_sistema>
 
 <tarea>
-Se te entregará un fragmento de texto extraído de la base de conocimiento de Casaverso (el "chunk").
-Tu única tarea es redactar la consulta de usuario que, en un escenario real, llevaría al sistema RAG a recuperar ese fragmento como respuesta relevante.
-No debes resumir, explicar ni comentar el fragmento. Solo generar la consulta.
+You will be given a text fragment extracted from the Casaverso knowledge base (the "chunk").
+Your only task is to write the user query that, in a real scenario, would lead the RAG system to retrieve that fragment as a relevant response.
+You must not summarize, explain, or comment on the fragment. Only generate the query.
 </tarea>
 
 <perfil_del_usuario_simulado>
-La persona que redacta la consulta:
-- NO ha leído el fragmento. Nunca lo verá.
-- Desconoce los términos técnicos, nombres de decretos, porcentajes exactos o artículos legales del texto.
-- Tiene una necesidad concreta (comprar casa, entender un requisito, saber cuánto puede pedir prestado, etc.).
-- Escribe como habla: con vocabulario chileno cotidiano, posibles errores de puntuación o tipeo, frases cortas o incompletas.
-- Puede estar nerviosa, apurada o confundida.
+The person writing the query:
+- Has NOT read the fragment. They will never see it.
+- Does not know the technical terms, decree names, exact percentages, or legal articles in the text.
+- Has a concrete need (buying a house, understanding a requirement, knowing how much they can borrow, etc.).
+- Writes the way they talk: with everyday Chilean vocabulary, possible punctuation or typing errors, short or incomplete sentences.
 </perfil_del_usuario_simulado>
 
 <reglas_criticas>
-REGLA 1 — ASIMETRÍA DE INFORMACIÓN (la más importante)
-La consulta debe nacer de una necesidad, NO del contenido del texto.
-El usuario expresa lo que QUIERE SABER, no lo que el texto DICE.
+RULE 1 — INFORMATION ASYMMETRY (the most important)
+The query must arise from a need, NOT from the content of the text.
+The user expresses what they WANT TO KNOW, not what the text SAYS.
 
-✗ INCORRECTO (contaminado con el texto):
-    Texto: "El subsidio DS49 permite un ahorro mínimo de 50 UF para postular."
-    Consulta generada: "¿Cuánto ahorro mínimo pide el DS49?"
-    → El usuario usó el nombre exacto del decreto y el concepto tal como aparece en el texto.
+✗ INCORRECT (contaminated with the text):
+    Text: "El subsidio DS49 permite un ahorro mínimo de 50 UF para postular."
+    Generated query: "¿Cuánto ahorro mínimo pide el DS49?"
+    → The user used the exact name of the decree and the concept exactly as it appears in the text.
 
-✓ CORRECTO (nace de la necesidad):
-    Consulta generada: "cuánta plata tengo que tener ahorrada para poder postular a una casa?"
-    → El usuario expresa su duda real sin saber cómo se llama el subsidio ni que existe un mínimo en UF.
+✓ CORRECT (arises from the need):
+    Generated query: "cuánta plata tengo que tener ahorrada para poder postular a una casa?"
+    → The user expresses their real doubt without knowing what the subsidio is called or that a minimum in UF exists.
 
-REGLA 2 — PROHIBIDO COPIAR FRASES DEL TEXTO
-No puedes usar ninguna frase, término técnico, nombre propio, porcentaje, ni expresión que aparezca literalmente en el fragmento dentro de la consulta generada.
-Si el texto dice "Tasa de Interés Preferencial", la consulta puede decir "cómo están las tasas" o "me conviene más tasa fija o variable", nunca "Tasa de Interés Preferencial".
+RULE 2 — COPYING PHRASES FROM THE TEXT IS FORBIDDEN
+** MANDATORY ** AND VERY IMPORTANT. NEVER skip this rule:
+You must avoid copying phrases, technical terms, or proper names from the fragment into the generated query.
+If the text says "Tasa de Interés Preferencial", the query can say "cómo están las tasas" or "me conviene más tasa fija o variable", never "Tasa de Interés Preferencial".
 
-REGLA 3 — ABSTRACCIÓN PROPORCIONAL AL DETALLE DEL CHUNK
-Cuanto más específico y técnico sea el fragmento, más general y amplia debe ser la consulta del usuario.
-El fragmento es la respuesta a una duda humana. Piensa en qué duda concreta y cotidiana respondería ese fragmento.
+RULE 3 — ABSTRACTION
+The fragment is the answer to a concrete human doubt. Think about what concrete, everyday doubt that fragment would answer.
 
-REGLA 4 — VOCABULARIO CHILENO AUTÉNTICO
-Usa el registro lingüístico real de los usuarios objetivo. Ejemplos de vocabulario apropiado:
+RULE 4 — AUTHENTIC CHILEAN VOCABULARY
+Use the real linguistic register of the target users. Examples of appropriate vocabulary:
 - "la casa propia", "el crédito", "postular", "el subsidio", "los papeles", "la cuota", "cuánto me sale"
-- Modismos válidos según el estilo: "oye", "po", "cachai", "me conviene", "me alcanza pa", "qué tan difícil es"
-- Evita tecnicismos bancarios, legalismos y frases de marketing.
+- Valid colloquialisms depending on style: "oye", "po", "cachai", "me conviene", "me alcanza pa", "qué tan difícil es"
+- Avoid banking technicalities, legalisms, and marketing phrases.
 
-REGLA 5 — UNA SOLA CONSULTA, UNA SOLA INTENCIÓN
-La consulta debe reflejar UNA necesidad concreta. No combines múltiples preguntas en una sola consulta.
+RULE 5 — ONE SINGLE QUERY, ONE SINGLE INTENT
+The query must reflect ONE concrete need. Do not combine multiple questions into a single query.
 </reglas_criticas>
 
 <guia_por_estilo>
-Aplica estas restricciones adicionales según el estilo asignado:
+Apply these additional restrictions according to the assigned style:
 
-- Buscador de Palabras Clave: máximo 5 palabras en total, sin verbos conjugados, sin signos de pregunta.
-- Caso Hipotético en Primera Persona: inventa las cifras del usuario — NO las copies del fragmento. Deben ser verosímiles a nuestros usuarios finales.
-- Coloquial Chileno Natural: máximo 2 oraciones. Al menos un modismo chileno presente.
-- Principiante / Educativo: debe incluir una frase de admisión de ignorancia ("no entiendo", "no sé qué es", "me puedes explicar").
-- Orientado a la Acción: debe incluir al menos un verbo de acción operativo (llevar, hacer, ir, mandar, pedir, hablar).
-- Mal Redactado: debe haber al menos un corte de pensamiento o mezcla de dos ideas sin conectar.
-- Errores Ortográficos: al menos una palabra técnica del dominio debe estar escrita fonéticamente mal.
+- Buscador de Palabras Clave: maximum 5 words total, no conjugated verbs, no question marks.
+- Caso Hipotético en Primera Persona: invent the user's figures — do NOT copy them from the fragment. They must be plausible for our end users.
+- Coloquial Chileno Natural: maximum 2 sentences. At least one Chilean colloquialism present.
+- Principiante / Educativo: must include a phrase admitting ignorance ("no entiendo", "no sé qué es", "me puedes explicar").
+- Orientado a la Acción: must include at least one operational action verb (llevar, hacer, ir, mandar, pedir, hablar).
+- Mal Escrito: there must be at least one spelling or grammar error.
+- Errores Ortográficos: at least one technical domain word must be spelled phonetically incorrectly.
 </guia_por_estilo>
 
 <instruccion_de_estilo>
-Debes redactar la consulta usando EXCLUSIVAMENTE el siguiente estilo:
+You must write the query using EXCLUSIVELY the following style:
 
-Nombre: {style_name}
-Descripción: {style_description}
+Name: {style_name}
+Description: {style_description}
 
-Si el fragmento entregado no permite generar una consulta realista y coherente bajo ese estilo (por ejemplo, el contenido es demasiado técnico, administrativo, o fuera del alcance de ese perfil de usuario), entonces responde dentro del tag <user_input> exactamente con este texto, sin modificarlo:
+If the delivered fragment does not allow generating a realistic and coherent query under that style (for example, the content is too technical, administrative, or outside the scope of that user profile), then respond inside the <user_input> tag with exactly this text, without modifying it:
 {NO_GENERATION_SENTINEL}
-No uses ninguna otra frase, explicación ni alternativa.
+Do not use any other phrase, explanation, or alternative.
 </instruccion_de_estilo>
 
+<output_restriction>
+ABSOLUTE RESTRICTION — OUTPUT LANGUAGE:
+You must ALWAYS write the generated query in Spanish, using Chilean everyday vocabulary, regardless of the language of any instruction, fragment, or context provided to you. Generating the query in any language other than Spanish is strictly forbidden.
+</output_restriction>
+
 <formato_de_salida>
-Responde ÚNICAMENTE con el siguiente XML. Sin markdown. Sin texto previo ni posterior. Sin comillas en los valores. Sin saltos de línea dentro de los tags.
+Respond ONLY with the following XML. No markdown. No preceding or following text. No quotes around values. No line breaks inside tags.
 
 <style_name>{style_name}</style_name>
 <user_input>LA_CONSULTA_GENERADA_AQUÍ</user_input>
 
-El valor dentro de <style_name> debe ser EXACTAMENTE: {style_name}
-El valor dentro de <user_input> debe ser únicamente la consulta, o el sentinel {NO_GENERATION_SENTINEL} si no aplica.
+The value inside <style_name> must be EXACTLY: {style_name}
+The value inside <user_input> must be only the query, or the sentinel {NO_GENERATION_SENTINEL} if it does not apply.
 </formato_de_salida>
 """
 
@@ -493,7 +496,8 @@ def main():
                     "user_input": generated_question,
                     "reference_contexts": [chunk_text],
                     "query_style": style_used,
-                    "source_file": extract_bd_code(os.path.basename(file_path))
+                    "source_file": extract_bd_code(os.path.basename(file_path)),
+                    "filepath": os.path.relpath(file_path, config.KB_FOLDER)
                 }
                 append_row_to_csv(config.PIPELINE_CSV, row)
                 generated_count += 1
