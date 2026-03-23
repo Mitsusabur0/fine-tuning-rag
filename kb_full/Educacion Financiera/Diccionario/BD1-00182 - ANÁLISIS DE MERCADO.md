@@ -1,0 +1,3 @@
+# ANÁLISIS DE MERCADO
+
+Diagnóstico y estudio del conjunto de transacciones o acuerdos entre compradores y vendedores. El análisis de mercado implica observar y determinar aquellas ventajas y relaciones existentes en el comercio regular, determinando eventuales ganancias o pérdidas para vendedores y compradores, permitiendo articular el mecanismo de la oferta y demanda a intereses previamente establecidos. Ej. En el caso de que se quiera instalar un minimarket en una población, los dueños, al evaluar el lugar en que se ubicará el negocio, la cantidad de potenciales clientes o la existencia de locales que compitan con él, están desarrollando un análisis de mercado.

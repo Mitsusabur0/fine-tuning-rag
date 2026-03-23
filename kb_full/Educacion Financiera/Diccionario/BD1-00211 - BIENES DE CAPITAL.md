@@ -1,0 +1,3 @@
+# BIENES DE CAPITAL
+
+Aquellos que no se destinan al consumo, sino a seguir el proceso productivo, en forma de auxiliares o directamente para incrementar el patrimonio material o financiero (capital). Término aplicado comúnmente al activo fijo, que abarca algunas veces partidas o elementos que contribuyen a la producción. Es sinónimo de capital (o bienes) de producción; es decir, el capital empleado en la producción. Estos términos se refieren también a las formas materiales de los elementos de producción, tales como las máquinas, el equipo, etc., en contraste con valores de capital (o de capitalización) que es la medida monetaria de dichos elementos. Son los activos destinados para producir otros activos.

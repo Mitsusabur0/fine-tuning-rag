@@ -1,0 +1,3 @@
+# DEPÓSITO
+
+Acción de poner algún valor bajo la custodia de una persona que se hace responsable del mismo; aquello que se deposita. Existen diversos tipos de depósitos según las características del valor depositado y las condiciones que se hayan fijado para realizarlo. Los depósitos más usuales son los que efectúan los clientes o depositantes en los bancos, que asumen en este caso el papel de depositarios. Los depósitos recibidos por los bancos son acreditados de inmediato en las cuentas respectivas pero no son físicamente mantenidos por éstos, sino tomados, previa reserva del encaje legal, para efectuar préstamos y otras transacciones. Corresponde, en resumen, a una operación financiera.

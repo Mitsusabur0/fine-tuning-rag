@@ -1,0 +1,3 @@
+# SEGURIDAD LABORAL
+
+Sector de la seguridad y la salud pública que se ocupa de proteger la salud de los trabajadores, controlando el entorno del trabajo para reducir o eliminar riesgos. Los accidentes laborales o las condiciones de trabajo poco seguras pueden provocar enfermedades y lesiones temporales o permanentes e incluso causar la muerte. También, ocasionan una reducción de la eficiencia y una pérdida de la productividad de cada trabajador. En Chile, hay entidades que se encargan de educar y fiscalizar a las empresas en materia de seguridad laboral, por ejemplo, la Asociación Chilena de Seguridad (ACHS).

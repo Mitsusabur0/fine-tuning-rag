@@ -1,0 +1,3 @@
+# ¿Qué es el certificado de antecedentes comerciales?
+
+El Certificado de Antecedentes Comerciales, es un documento oficial emitido por el Boletín Comercial, que registra la información de protestos y morosidades en el Sistema Financiero / Comercial, vigentes a la fecha de su emisión en el banco de datos del Boletín Comercial y en la base de datos de Morosidad en Sistemas Financiero/Comercial – INFOCOM, administradas por la Cámara de Comercio de Santiago. Este Certificado permite a los titulares de los datos conocer o acreditar su situación comercial ante terceros. Solamente se pueden entregar al titular de los datos o al comercio establecido, para uso exclusivo de riesgo comercial y proceso de crédito.

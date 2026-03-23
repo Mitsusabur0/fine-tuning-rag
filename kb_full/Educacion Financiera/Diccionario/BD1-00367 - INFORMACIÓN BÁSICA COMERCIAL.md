@@ -1,0 +1,3 @@
+# INFORMACIÓN BÁSICA COMERCIAL
+
+Datos, instructivos, antecedentes o indicaciones que el proveedor debe suministrar obligatoriamente al público consumidor, en cumplimiento de una norma jurídica. De acuerdo a la Ley del Consumidor, la información comercial básica deberá ser suministrada al público por medios que aseguren un acceso claro, expedito y oportuno. Respecto de los instructivos de uso de los bienes y servicios cuyo uso normal represente un riesgo para la integridad y seguridad de las personas, será obligatoria su entrega al consumidor conjuntamente con los bienes y servicios a que acceden.

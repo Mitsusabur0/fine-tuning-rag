@@ -1,0 +1,3 @@
+# RENTA FIJA
+
+Inversiones en donde se conoce de antemano (o al menos en un nivel de predicción aceptable) cuáles serán los flujos de renta que generarán. Por lo general, las inversiones de renta fija generan una menor rentabilidad que las inversiones de renta variable, pero presentan un menor riesgo. Generalmente, estas inversiones se realizan a largo plazo y un ejemplo de inversiones de renta fija son los activos financieros o títulos valores tales como los bonos, las obligaciones, las letras, y los pagarés; los bienes raíces en alquiler, y los sistemas de ahorros tales como los depósitos a plazo y las cuentas de ahorro.

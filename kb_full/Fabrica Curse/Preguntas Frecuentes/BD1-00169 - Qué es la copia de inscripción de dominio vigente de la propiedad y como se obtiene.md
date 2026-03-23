@@ -1,0 +1,3 @@
+# Qué es la copia de inscripción de dominio vigente de la propiedad y como se obtiene
+
+Es el documento que corresponde a la inscripción de dominio del inmueble en el Registro de Propiedad del Conservador de Bienes Raíces respectivo. En ella se individualiza al poseedor inscrito del inmueble, se singulariza el inmueble con indicación de sus deslindes y señala el título mediante el cual se adquiere el dominio. Además, puede indicar si la propiedad se encuentra declara bien familiar, ha sido divida o transferida en parte. Se obtiene con la indicación de la inscripción de dominio vigente, foja, número y año. Si además contiene una certificación de encontrarse “vigente”, que puede ser en todo o en parte, correspondería a una copia de inscripción de dominio “vigente”.

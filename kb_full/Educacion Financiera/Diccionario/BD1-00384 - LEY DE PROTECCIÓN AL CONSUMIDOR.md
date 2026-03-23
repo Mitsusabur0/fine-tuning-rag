@@ -1,0 +1,3 @@
+# LEY DE PROTECCIÓN AL CONSUMIDOR
+
+Es una legislación de carácter esencialmente tutelar que busca romper el desequilibrio natural que existe entre los dos principales agentes del mercado: proveedor y consumidor. Tiene por objeto normar las relaciones entre proveedores y consumidores, establecer las infracciones en perjuicio del consumidor y señalar el procedimiento aplicable en estas materias. La primera Ley de Derechos del Consumidor del país (Ley Nº 19.496) entró en vigencia en 1997, después de seis años de debate, esta fue modificada mediante la LEY-19955 del 14.07.2004. La legislación dio al Servicio Nacional del Consumidor (SERNAC) la responsabilidad de mediar cada vez que estos derechos supuestamente se infringieran.

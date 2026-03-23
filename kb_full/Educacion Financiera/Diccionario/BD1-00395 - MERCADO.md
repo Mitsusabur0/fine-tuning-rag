@@ -1,0 +1,3 @@
+# MERCADO
+
+Es una organización social en la que interactúan oferentes y demandantes, estableciendo acuerdos sobre bienes y servicios a transar y los precios de los mismos. También, puede definirse como un lugar -físico o virtual- donde se realizan las compras y ventas de bienes y servicios, donde se juntan los que quieren comprar con los que quieren vender. Por lo tanto es un concepto amplio ya que hay muchas partes donde uno puede comprar o vender. Ej. Está el mercado de bienes de consumo (supermercados, multitiendas, malls, feria libre), el mercado financiero (bancos, financieras, multitiendas), el mercado de las telecomunicaciones (Cable, telefonía).

@@ -1,0 +1,3 @@
+# SEGUROS
+
+El contrato de seguro es el acuerdo por cual una de las partes, el asegurador, se obliga a resarcir de un daño o a pagar una suma de dinero a la otra parte, tomador, al verificarse la eventualidad prevista en el contrato, a cambio del pago de un precio, denominado prima, por el tomador. El contrato de seguro puede tener por objeto toda clase de riesgos si existe interés, salvo prohibición expresa de la ley. Ej.: El contratante o tomador del seguro, que puede coincidir o no con el asegurado, por su parte, se obliga a efectuar el pago de esa prima, a cambio de la cobertura otorgada por el asegurador, la cual evita afrontar un perjuicio económico mayor, en caso de que el siniestro se produzca.

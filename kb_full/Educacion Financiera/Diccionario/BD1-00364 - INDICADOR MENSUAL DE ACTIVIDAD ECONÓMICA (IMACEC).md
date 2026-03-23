@@ -1,0 +1,3 @@
+# INDICADOR MENSUAL DE ACTIVIDAD ECONÓMICA (IMACEC)
+
+Índice representativo de la actividad económica de Chile, abarcando alrededor del 90% de los bienes y servicios que componen el PIB del país y emulando por lo tanto parte de su comportamiento; lo anterior permite acceder con mayor frecuencia que aquella con la cual se hace entrega de las cifras de producto a información sobre el comportamiento de la economía. El índice es publicado por el Banco Central de Chile usualmente alrededor del día 5 de cada mes y de manera previa a la reunión mensual de política monetaria del Consejo de dicha entidad, que utiliza el dato como referencia fundamental para su toma de decisiones.

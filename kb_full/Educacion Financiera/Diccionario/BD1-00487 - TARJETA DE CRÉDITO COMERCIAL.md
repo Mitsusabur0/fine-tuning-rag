@@ -1,0 +1,3 @@
+# TARJETA DE CRÉDITO COMERCIAL
+
+Son emitidas por un establecimiento comercial para el uso exclusivo en el mismo, es decir, el crédito que se les proporciona está supeditado a que se utilice en el consumo de productos o servicios que el mencionado establecimiento ofrezca. Tiene como particularidad que las relaciones obligacionales que se desprenden son únicamente entre el Establecimiento y el Usuario de la tarjeta, siendo esta relación un mutuo entre las partes, es decir este tipo de Tarjeta de Crédito es bipartita pues solo son dos partes que intervienen en las relaciones obligatorias generadas.

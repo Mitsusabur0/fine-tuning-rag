@@ -1,0 +1,3 @@
+# IMPUESTO ADICIONAL
+
+El impuesto Adicional se aplica a las rentas de fuente chilena obtenidas por personas naturales o jurídicas que no tienen domicilio ni residencia en Chile, cuando la renta queda a disposición desde Chile a la persona residente en el extranjero. Dependiendo del tipo de renta de que se trate, puede ser un impuesto de retención, o bien, un impuesto de declaración anual. La tasa general del impuesto Adicional es de 35%, aplicándose tasas menores para algunos tipos de rentas, que cumplan además, los requisitos especiales indicados para cada una de ellas en la normativa vigente.

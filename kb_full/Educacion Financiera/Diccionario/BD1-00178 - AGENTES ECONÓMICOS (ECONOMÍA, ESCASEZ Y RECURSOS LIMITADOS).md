@@ -1,0 +1,3 @@
+# AGENTES ECONÓMICOS (ECONOMÍA, ESCASEZ Y RECURSOS LIMITADOS)
+
+Son todas las personas, grupos de personas o entidades responsables de la actividad económica. Están constituidos por las familias o economías domésticas que consumen bienes y servicios y ofrecen sus recursos de trabajo, capital y tierra a las empresas y el gobierno; las empresas o unidades de producción que demandan insumos como materias primas, maquinaria y trabajo y ofrecen bienes con un valor agregado; el gobierno que consume bienes y servicios necesarios para su administración y ofrece ciertos bienes y servicios que a la iniciativa privada no le interesa producir, pero que son necesarios e importantes para la sociedad.

@@ -1,0 +1,3 @@
+# Qué es un certificado de Avalúo Fiscal y en donde lo puedo pedir y que contiene
+
+Es un documento emitido por el Servicio de Impuestos Internos, y que contiene una tasación fiscal del inmueble singularizado con su número de rol y ubicación. También indica el destino legal de la propiedad.

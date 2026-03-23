@@ -1,0 +1,3 @@
+# AGENTES ECONÓMICOS (MERCADO, PRODUCCIÓN DE BIENES Y SERVICIOS Y TRABAJO)
+
+Se refiere a la clasificación de las unidades administrativas, productivas o consumidoras que participan en la economía; en Cuentas Nacionales se consideran agentes económicos a las familias, empresas, gobierno y el exterior. En el caso de las transferencias, los agentes económicos son: Empresas Públicas, Empresas Privadas, Organismos Descentralizados, Productores de Mercancías, Instituciones de Seguridad Social, Organismos Descentralizados Productores de Servicios Sociales y Comunales, Instituciones Privadas sin fines de lucro, Particulares, Estados y Municipios, y el Exterior.

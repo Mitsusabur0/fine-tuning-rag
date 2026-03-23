@@ -1,0 +1,3 @@
+# ¿Cuál es la situación de los seguros por sismo tratándose de comunidades de edificios o departamentos?
+
+Si su propiedad forma parte de una comunidad regida por la Ley N° 19.537, sobre Copropiedad Inmobiliaria, el administrador de la comunidad tiene la obligación de contratar un seguro de incendio, que puede o no incluir la cobertura de sismo, para las unidades de departamentos o casas que no cuenten con seguro de incendio y para los espacios comunes. En caso de encontrarse en esta situación, le recomendamos consultar al administrador respecto las coberturas asociadas al seguro de incendio contratado por la comunidad.

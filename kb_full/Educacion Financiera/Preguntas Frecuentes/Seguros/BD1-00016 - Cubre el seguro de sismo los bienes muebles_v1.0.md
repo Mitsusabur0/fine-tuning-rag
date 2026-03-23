@@ -1,0 +1,3 @@
+# ¿Cubre el seguro de sismo los bienes muebles?
+
+El seguro de sismo no cubre los daños que sufran los bienes que se encuentren al interior de la propiedad y que no formen parte de su estructura -muebles, televisores, electrodomésticos, etc. Para cubrir estos bienes la póliza de incendio puede tener incorporada la "Cobertura de Contenidos" cuyo objeto es cubrir los bienes del interior de la propiedad y que resulten afectados por el sismo cubierto por la póliza respectiva. Para saber si su seguro de incendio cuenta con "Cobertura de Contenidos" revise su póliza, o contáctese con su ejecutivo de cuentas o con un agente del banco o institución de crédito que otorgó el préstamo.

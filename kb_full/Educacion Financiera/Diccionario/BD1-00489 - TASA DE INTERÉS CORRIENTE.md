@@ -1,0 +1,3 @@
+# TASA DE INTERÉS CORRIENTE
+
+El interés corriente es el interés promedio cobrado por los bancos y sociedades financieras establecidas en Chile en las operaciones que realicen en el país, salvo ciertas exclusiones que enumera la ley, y corresponde a la SBIF determinar las tasas de interés corriente, pudiendo distinguir entre operaciones en moneda nacional o extranjera, reajustables o no reajustables. Los promedios se establecen en relación con las operaciones efectuadas durante cada mes calendario y las tasas resultantes se publican en el Diario Oficial y en esta SBIF durante la primera quincena del mes siguiente.

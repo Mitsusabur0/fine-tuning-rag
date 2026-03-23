@@ -1,0 +1,3 @@
+# IMPUESTOS INDIRECTOS
+
+Tributos que gravan la producción nacional, la venta, y el consumo de bienes concretos. Los impuestos indirectos pueden ser, bien de cuantía fija, aumentando en una misma cantidad el precio de todos los bienes que gravan, o bien un porcentaje del precio inicial, por lo que aumentará más el precio de los bienes más caros. En definitiva, el peso del impuesto lo sufre el consumidor final, que es el que está obligado a pagar los bienes más caros. Se trata, por tanto, de un impuesto sobre el consumo. Ej. El impuesto indirecto más importante es el impuesto al valor agregado o IVA el cual constituye una parte importante de los ingresos tributarios en muchos países del mundo.

@@ -1,0 +1,3 @@
+# DIVISIÓN DE TRABAJO
+
+Forma de trabajar en las economías modernas cuyo rasgo fundamental es la especialización de personas y máquinas en la realización de algunas tareas específicas con la finalidad de lograr más eficacia y eficiencia en la producción de bienes y servicios, situación que ha permitido que las organizaciones sean más productivas y que las personas se especialicen según sus habilidades. Ej. En una fábrica de pasteles hay personas que se dedican a comprar la harina y los insumos, los pasteleros preparan los pasteles y los vendedores venden los pasteles, el administrador se encarga de pagar sueldos y hacer que las personas cumplan sus funciones adecuadamente.

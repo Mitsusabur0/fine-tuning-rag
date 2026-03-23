@@ -1,0 +1,3 @@
+# DERECHOS DEL CONSUMIDOR
+
+Conjunto de derechos establecidos legalmente que protegen a los consumidores en su relación con el mercado. Estos son: elegir libremente un determinado bien o servicio; acceder a información oportuna y veraz; no ser discriminado arbitrariamente por los proveedores; seguridad en el consumo de bienes y servicios; reparación e indemnización; educación para un consumo responsable; a retracto o terminar un contrato sin voluntad del proveedor y derecho a garantía, cambio o devolución del dinero. Los derechos citados y los otros contenidos en las leyes de consumo son irrenunciables anticipadamente para los consumidores.

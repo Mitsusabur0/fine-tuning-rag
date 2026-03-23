@@ -1,0 +1,16 @@
+{
+  "metadataAttributes": {
+    "title": "Montos de subsidio según alternativa DS1 Tramo 1",
+    "documentId": "BD1-00567",
+    "source": "bancoestado",
+    "category": "Sitio Externos",
+    "tags": "externos,minvu,montos,segun,subsidio,subsidios,zona",
+    "subcategory": "Minvu",
+    "sourceUrl": "https://www.minvu.gob.cl/beneficio/vivienda/subsidio-habitacional-comprar-una-vivienda-de-hasta-1100-uf-ds1/",
+    "creationDate": "2025-10-07",
+    "version": "1.0",
+    "contentType": "documentation",
+    "wordCount": "171",
+    "lastProcessed": "2026-01-26T16:43:45.872418"
+  }
+}

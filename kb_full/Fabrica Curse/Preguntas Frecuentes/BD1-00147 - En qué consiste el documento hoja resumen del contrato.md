@@ -1,0 +1,3 @@
+# En qué consiste el documento hoja resumen del contrato
+
+Es un documento exigido por la Ley sobre Protección de los Derechos de los Consumidores y que se firma junto con la escritura por parte del cliente en notaria, se incluye y se suscribe en conjunto con la Hoja Resumen y la Ficha Explicativa, que son los llamados Documentos SERNAC.

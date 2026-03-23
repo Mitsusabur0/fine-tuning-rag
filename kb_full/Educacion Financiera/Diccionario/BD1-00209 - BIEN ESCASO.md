@@ -1,0 +1,3 @@
+# BIEN ESCASO
+
+Es aquel cuya abundancia o disponibilidad es limitada. No existe escasez de aire, por ejemplo, puesto que este bien está disponible en forma irrestricta para sus consumidores, llamándoselo por lo tanto un bien libre. En cambio, todos los bienes y servicios que se comercian por un precio son bienes escasos, pues ellos se ofrecen en cantidades más o menos restringidas. La mayoría de los bienes son escasos. Ej. El petróleo. La existencia de reservas limitadas y situadas sólo en algunas regiones del planeta, hace que se transforme en un bien escaso cuya tasación en el mercado afecta a la economía en todo el mundo.

@@ -1,0 +1,3 @@
+# En caso que el seguro de incendio contratado por mi banco o entidad de crédito no cuente con cobertura de sismo ¿puedo contratar dicha cobertura en forma individual?
+
+En caso que su póliza de incendio no cuente con el adicional de sismo, Ud. puede contratar directamente el seguro de incendio con adicional de sismo con la aseguradora de su elección, debiendo sus condiciones ajustarse a los requisitos y condiciones establecidas por el banco. Previo a cotizar seguros de incendio con adicional de sismo, se sugiere consultar a su banco o entidad de crédito sobre las exigencias para los seguros establecidas en cada caso.

@@ -1,0 +1,3 @@
+# CUENTA DE AHORRO
+
+Es un servicio que ofrecen los bancos para guardar dinero. El banco nos paga un interés y además nos da una libreta en la que anota lo que depositamos o sacamos. Esto implica firmar un contrato similar al de la cuenta corriente pero en el que los depositantes no pueden movilizar sus fondos mediante cheques, y sólo pueden retirar su dinero en las oficinas del banco. Las cuentas de ahorro siempre pagan interés a los depositantes. Ej., Los intereses que se abonen a la cuenta de ahorro pueden ser mensuales, trimestrales o anuales. Cabe señalar que este tipo de cuentas pueden estar sujetas a comisiones, aunque desde la popularización de la banca online la tendencia es a suprimir el pago de comisiones en los productos de ahorro.Principio del formulario

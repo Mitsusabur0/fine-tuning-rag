@@ -1,0 +1,3 @@
+# Qué es el certificado de pensión de alimento y donde se obtiene
+
+Es un documento que emite el Servicio de Registro Civil que acredita la existencia o no de inscripciones en el Registro Nacional de Deudores de Pensión de Alimentos.
