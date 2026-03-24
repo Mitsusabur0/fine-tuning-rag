@@ -8,6 +8,9 @@ from datetime import datetime
 from botocore.exceptions import ClientError
 import config
 
+INPUT_FILEPATH = config.PIPELINE_CSV
+OUTPUT_FILEPATH = config.PIPELINE_CSV_RETRIEVER
+
 def get_runtime_client():
     session = boto3.Session(profile_name=config.AWS_PROFILE_SANDBOX)
     return session.client(service_name=config.KB_SERVICE, region_name=config.AWS_REGION)
@@ -87,9 +90,9 @@ def retrieve_contexts(query, client, error_log):
     return retrieved_texts, retrieved_files
 
 def main():
-    print(f"Loading {config.PIPELINE_CSV}...")
+    print(f"Loading {INPUT_FILEPATH}...")
     try:
-        df = pd.read_csv(config.PIPELINE_CSV)
+        df = pd.read_csv(INPUT_FILEPATH)
     except FileNotFoundError:
         print("Input file not found. Run File 1 first.")
         return
@@ -116,13 +119,13 @@ def main():
     df['retrieved_contexts'] = retrieved_data
     df['retrieved_file'] = retrieved_files_data
     
-    ensure_parent_dir(config.PIPELINE_CSV)
-    df.to_csv(config.PIPELINE_CSV, index=False)
-    print(f"Retrieval complete. Updated {config.PIPELINE_CSV}")
+    ensure_parent_dir(OUTPUT_FILEPATH)
+    df.to_csv(OUTPUT_FILEPATH, index=False)
+    print(f"Retrieval complete. Updated {OUTPUT_FILEPATH}")
 
     if error_log:
         summary_path = os.path.join(
-            os.path.dirname(config.PIPELINE_CSV),
+            os.path.dirname(OUTPUT_FILEPATH),
             "retriever_run_summary.json"
         )
         ensure_parent_dir(summary_path)
