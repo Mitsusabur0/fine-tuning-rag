@@ -100,7 +100,7 @@ def load_processed_rows(progress_log_path):
 
             row_index = obj.get("row_index")
             status = obj.get("status")
-            if isinstance(row_index, int) and status == "generated":
+            if isinstance(row_index, int) and status in {"generated", "error"}:
                 processed.add(row_index)
     return processed
 
@@ -148,7 +148,11 @@ def append_row_to_csv(path, row, fieldnames, dialect):
         writer = csv.DictWriter(
             outfile,
             fieldnames=fieldnames,
-            dialect=dialect,
+            delimiter=dialect.delimiter,
+            quotechar='"',
+            doublequote=True,
+            quoting=csv.QUOTE_MINIMAL,
+            lineterminator="\n",
         )
         if not has_content:
             writer.writeheader()
@@ -329,6 +333,9 @@ def main():
                 if answerability_value is None:
                     parse_failures += 1
                     answerability_value = "failed"
+                    progress_status = "error"
+                else:
+                    progress_status = "generated"
 
                 output_row = build_output_row(row, input_fieldnames, answerability_value)
                 append_row_to_csv(
@@ -337,7 +344,7 @@ def main():
                     fieldnames=output_fieldnames,
                     dialect=dialect,
                 )
-                append_progress(progress_log_path, row_index, "generated")
+                append_progress(progress_log_path, row_index, progress_status)
                 processed_count += 1
     finally:
         if error_log or parse_failures:
